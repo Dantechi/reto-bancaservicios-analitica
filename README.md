@@ -375,14 +375,6 @@ El éxito se mediría mediante:
 - Incremento de la prima mensual vigente.
 - Reducción de la diferencia entre los asesores de mayor y menor desempeño.
 
-## Entregables
-
-- [Consultas SQL](sql/)
-- [Resultados de las consultas](resultados/)
-- [Documento de hallazgos](documentos/Hallazgos_Recomendacion_Bancaservicios.pdf)
-- [Visión de producto](documentos/vision_producto.md)
-- [Dashboard público](https://dantechi.github.io/reto-bancaservicios-analitica/)
-
 ## Autor
 
 **Pablo Rincón**
