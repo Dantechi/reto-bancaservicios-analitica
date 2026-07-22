@@ -1,0 +1,11 @@
+﻿grupo,posicion,asesor,regional,gestiones_totales,gestiones_efectivas,tasa_efectividad_pct
+Top 5,1,Asesor_038,Santanderes,17,13.0,76.47
+Top 5,2,Asesor_026,Costa,15,11.0,73.33
+Top 5,3,Asesor_023,Costa,29,20.0,68.97
+Top 5,4,Asesor_003,Bogotá,36,24.0,66.67
+Top 5,5,Asesor_025,Costa,37,24.0,64.86
+Bottom 5,1,Asesor_030,Eje Cafetero,33,7.0,21.21
+Bottom 5,2,Asesor_007,Antioquia,20,5.0,25.0
+Bottom 5,3,Asesor_021,Costa,30,8.0,26.67
+Bottom 5,4,Asesor_031,Eje Cafetero,20,6.0,30.0
+Bottom 5,5,Asesor_015,Valle,32,10.0,31.25

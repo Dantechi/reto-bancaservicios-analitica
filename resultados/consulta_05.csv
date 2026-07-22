@@ -1,0 +1,57 @@
+﻿id_poliza,fecha_emision,asesor,regional,canal,producto,prima_mensual,dias_mora
+POL00073,2026-07-10,Asesor_035,Santanderes,Affinity,Salud a su Medida,386500,118
+POL00611,2026-06-18,Asesor_013,Valle,Negocios Masivos,Salud a su Medida,245200,118
+POL00361,2025-11-27,Asesor_037,Santanderes,Negocios Masivos,Accidentes Personales,624300,117
+POL00087,2026-03-26,Asesor_009,Antioquia,Negocios Masivos,Accidentes Personales,520300,115
+POL00051,2026-05-03,Asesor_005,Bogotá,Negocios Masivos,Salud a su Medida,251100,113
+POL00063,2026-02-25,Asesor_036,Santanderes,Negocios Masivos,Accidentes Personales,161000,111
+POL00636,2026-02-20,Asesor_040,Santanderes,Bancaseguros,Accidentes Personales,41000,108
+POL00388,2026-05-03,Asesor_012,Antioquia,Negocios Masivos,Exequial,138800,107
+POL00197,2026-02-20,Asesor_004,Bogotá,Bancaseguros,Hogar,824100,106
+POL00064,2025-10-30,Asesor_011,Antioquia,Bancaseguros,Exequial,181200,101
+POL00542,2026-03-26,Asesor_016,Valle,Negocios Masivos,Hogar,827100,100
+POL00168,2025-12-26,Asesor_041,Santanderes,Negocios Masivos,Salud a su Medida,108700,98
+POL00467,2026-01-23,Asesor_002,Bogotá,Negocios Masivos,Vida Deudor,687000,95
+POL00351,2026-01-10,Asesor_032,Eje Cafetero,Affinity,Exequial,491800,93
+POL00214,2026-03-07,Asesor_021,Costa,Negocios Masivos,Hogar,242700,88
+POL00076,2026-05-11,Asesor_019,Valle,Bancaseguros,Salud a su Medida,377700,87
+POL00398,2026-05-12,Asesor_028,Eje Cafetero,Bancaseguros,Exequial,827400,86
+POL00643,2025-11-22,Asesor_022,Costa,Negocios Masivos,Accidentes Personales,674700,86
+POL00206,2025-11-22,Asesor_033,Eje Cafetero,Bancaseguros,Accidentes Personales,627700,85
+POL00385,2026-02-26,Asesor_019,Valle,Bancaseguros,Salud a su Medida,659100,83
+POL00632,2026-04-20,Asesor_027,Costa,Negocios Masivos,Vida Deudor,42300,83
+POL00397,2025-09-01,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,752000,81
+POL00242,2026-06-05,Asesor_012,Antioquia,Negocios Masivos,Salud a su Medida,96400,81
+POL00254,2025-12-24,Asesor_025,Costa,Negocios Masivos,Hogar,729000,78
+POL00411,2025-11-22,Asesor_037,Santanderes,Bancaseguros,Salud a su Medida,247500,75
+POL00107,2025-10-23,Asesor_008,Antioquia,Bancaseguros,Hogar,506600,74
+POL00574,2026-05-30,Asesor_023,Costa,Negocios Masivos,Vida Deudor,606000,73
+POL00243,2026-03-26,Asesor_032,Eje Cafetero,Negocios Masivos,Accidentes Personales,400900,73
+POL00042,2025-12-25,Asesor_030,Eje Cafetero,Negocios Masivos,Exequial,815200,72
+POL00570,2025-11-21,Asesor_039,Santanderes,Affinity,Vida Deudor,82800,68
+POL00492,2026-01-13,Asesor_011,Antioquia,Affinity,Hogar,501800,66
+POL00265,2025-11-08,Asesor_031,Eje Cafetero,Negocios Masivos,Hogar,806900,60
+POL00105,2025-10-04,Asesor_016,Valle,Negocios Masivos,Exequial,128200,60
+POL00249,2026-01-12,Asesor_013,Valle,Affinity,Accidentes Personales,443600,58
+POL00562,2025-10-02,Asesor_022,Costa,Affinity,Vida Deudor,76300,56
+POL00270,2025-09-16,Asesor_028,Eje Cafetero,Affinity,Salud a su Medida,756000,54
+POL00550,2025-11-30,Asesor_009,Antioquia,Affinity,Hogar,728500,51
+POL00572,2026-05-01,Asesor_018,Valle,Bancaseguros,Vida Deudor,504200,50
+POL00386,2026-02-08,Asesor_027,Costa,Affinity,Exequial,743700,49
+POL00299,2025-08-17,Asesor_037,Santanderes,Bancaseguros,Accidentes Personales,588400,48
+POL00271,2026-02-19,Asesor_004,Bogotá,Affinity,Accidentes Personales,227200,48
+POL00520,2026-06-23,Asesor_032,Eje Cafetero,Bancaseguros,Accidentes Personales,465600,47
+POL00240,2026-06-21,Asesor_033,Eje Cafetero,Negocios Masivos,Vida Deudor,450600,45
+POL00322,2025-10-13,Asesor_039,Santanderes,Negocios Masivos,Hogar,295200,45
+POL00066,2025-08-20,Asesor_025,Costa,Bancaseguros,Exequial,197700,45
+POL00593,2025-10-22,Asesor_025,Costa,Negocios Masivos,Vida Deudor,802600,44
+POL00165,2026-02-26,Asesor_010,Antioquia,Bancaseguros,Salud a su Medida,417600,44
+POL00447,2026-03-23,Asesor_013,Valle,Bancaseguros,Vida Deudor,283300,43
+POL00429,2026-05-06,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,61800,41
+POL00255,2026-01-18,Asesor_010,Antioquia,Negocios Masivos,Vida Deudor,575800,40
+POL00190,2025-11-22,Asesor_040,Santanderes,Negocios Masivos,Vida Deudor,706400,39
+POL00370,2026-02-13,Asesor_017,Valle,Affinity,Salud a su Medida,649300,39
+POL00194,2026-07-02,Asesor_027,Costa,Affinity,Vida Deudor,536800,36
+POL00314,2025-12-24,Asesor_034,Eje Cafetero,Affinity,Vida Deudor,195000,36
+POL00156,2026-04-18,Asesor_019,Valle,Affinity,Hogar,715300,32
+POL00161,2026-02-10,Asesor_035,Santanderes,Affinity,Exequial,743700,31

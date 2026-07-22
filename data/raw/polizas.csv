@@ -1,0 +1,651 @@
+id_poliza,fecha_emision,asesor,regional,canal,producto,prima_mensual,estado,dias_mora
+POL00001,2026-07-13,Asesor_007,Antioquia,Bancaseguros,Accidentes Personales,516300,Vigente,0
+POL00002,2025-11-20,Asesor_006,Bogotá,Negocios Masivos,Salud a su Medida,525600,Vigente,0
+POL00003,2026-03-03,Asesor_035,Santanderes,Affinity,Salud a su Medida,515300,Cancelada,0
+POL00004,2025-10-21,Asesor_001,Bogotá,Affinity,Exequial,261500,Vigente,0
+POL00005,2025-09-22,Asesor_022,Costa,Affinity,Vida Deudor,113800,Cancelada,0
+POL00006,2025-12-14,Asesor_039,Santanderes,Negocios Masivos,Vida Deudor,409400,Vigente,0
+POL00007,2025-09-10,Asesor_025,Costa,Affinity,Accidentes Personales,711000,Vigente,0
+POL00008,2026-05-23,Asesor_024,Costa,Negocios Masivos,Salud a su Medida,91700,Vigente,0
+POL00009,2025-09-10,Asesor_019,Valle,Bancaseguros,Salud a su Medida,344800,Vigente,0
+POL00010,2025-10-23,Asesor_024,Costa,Affinity,Hogar,205700,Vigente,0
+POL00011,2026-06-08,Asesor_005,Bogotá,Negocios Masivos,Salud a su Medida,629200,Vigente,0
+POL00012,2025-12-17,Asesor_025,Costa,Bancaseguros,Accidentes Personales,593000,Cancelada,0
+POL00013,2025-11-26,Asesor_004,Bogotá,Affinity,Vida Deudor,361900,Vigente,0
+POL00014,2026-01-09,Asesor_037,Santanderes,Negocios Masivos,Salud a su Medida,441900,Cancelada,0
+POL00015,2025-10-13,Asesor_030,Eje Cafetero,Bancaseguros,Hogar,236000,Vigente,0
+POL00016,2026-05-27,Asesor_017,Valle,Negocios Masivos,Exequial,360500,Vigente,0
+POL00017,2026-04-18,Asesor_009,Antioquia,Bancaseguros,Exequial,651000,Cancelada,0
+POL00018,2026-06-18,Asesor_010,Antioquia,Negocios Masivos,Salud a su Medida,379100,Vigente,0
+POL00019,2026-06-02,Asesor_025,Costa,Negocios Masivos,Exequial,239900,Vigente,0
+POL00020,2026-07-15,Asesor_001,Bogotá,Negocios Masivos,Vida Deudor,756100,Vigente,0
+POL00021,2025-09-27,Asesor_022,Costa,Affinity,Hogar,163900,Vigente,0
+POL00022,2026-04-14,Asesor_017,Valle,Negocios Masivos,Salud a su Medida,778800,Cancelada,0
+POL00023,2026-06-24,Asesor_020,Valle,Negocios Masivos,Accidentes Personales,197100,Vigente,0
+POL00024,2026-05-04,Asesor_011,Antioquia,Bancaseguros,Accidentes Personales,523100,Vigente,0
+POL00025,2026-02-02,Asesor_008,Antioquia,Bancaseguros,Hogar,82200,Cancelada,0
+POL00026,2025-09-13,Asesor_006,Bogotá,Bancaseguros,Exequial,832100,Vigente,0
+POL00027,2025-10-05,Asesor_009,Antioquia,Negocios Masivos,Exequial,169600,Vigente,0
+POL00028,2026-03-05,Asesor_039,Santanderes,Negocios Masivos,Salud a su Medida,650500,Vigente,0
+POL00029,2026-02-21,Asesor_020,Valle,Affinity,Hogar,768200,Vigente,0
+POL00030,2025-11-24,Asesor_016,Valle,Affinity,Vida Deudor,52100,Vigente,0
+POL00031,2025-11-21,Asesor_038,Santanderes,Bancaseguros,Vida Deudor,611900,Vigente,0
+POL00032,2025-08-17,Asesor_005,Bogotá,Bancaseguros,Hogar,454000,Vigente,0
+POL00033,2025-11-18,Asesor_032,Eje Cafetero,Bancaseguros,Accidentes Personales,624500,Cancelada,0
+POL00034,2026-03-31,Asesor_037,Santanderes,Affinity,Salud a su Medida,693100,Vigente,0
+POL00035,2026-07-04,Asesor_007,Antioquia,Affinity,Exequial,380200,Vigente,0
+POL00036,2026-07-11,Asesor_004,Bogotá,Bancaseguros,Vida Deudor,363100,Vigente,0
+POL00037,2025-12-06,Asesor_007,Antioquia,Bancaseguros,Salud a su Medida,472100,Vigente,0
+POL00038,2025-12-21,Asesor_012,Antioquia,Bancaseguros,Exequial,747700,Vigente,0
+POL00039,2025-09-20,Asesor_036,Santanderes,Negocios Masivos,Vida Deudor,849400,Cancelada,0
+POL00040,2025-11-30,Asesor_006,Bogotá,Affinity,Salud a su Medida,430800,Vigente,0
+POL00041,2025-08-31,Asesor_026,Costa,Affinity,Salud a su Medida,36800,Vigente,0
+POL00042,2025-12-25,Asesor_030,Eje Cafetero,Negocios Masivos,Exequial,815200,Mora,72
+POL00043,2025-10-19,Asesor_032,Eje Cafetero,Affinity,Salud a su Medida,212400,Vigente,0
+POL00044,2025-09-01,Asesor_035,Santanderes,Bancaseguros,Hogar,75900,Vigente,0
+POL00045,2025-10-20,Asesor_034,Eje Cafetero,Negocios Masivos,Vida Deudor,100300,Vigente,0
+POL00046,2025-09-04,Asesor_039,Santanderes,Affinity,Salud a su Medida,132700,Cancelada,0
+POL00047,2026-05-24,Asesor_016,Valle,Bancaseguros,Accidentes Personales,539800,Vigente,0
+POL00048,2026-05-17,Asesor_038,Santanderes,Affinity,Accidentes Personales,796800,Vigente,0
+POL00049,2025-12-01,Asesor_021,Costa,Affinity,Hogar,141700,Vigente,0
+POL00050,2026-01-09,Asesor_030,Eje Cafetero,Bancaseguros,Vida Deudor,408500,Mora,13
+POL00051,2026-05-03,Asesor_005,Bogotá,Negocios Masivos,Salud a su Medida,251100,Mora,113
+POL00052,2025-12-04,Asesor_005,Bogotá,Affinity,Hogar,163600,Cancelada,0
+POL00053,2026-06-10,Asesor_020,Valle,Bancaseguros,Accidentes Personales,579300,Vigente,0
+POL00054,2025-10-08,Asesor_007,Antioquia,Bancaseguros,Hogar,760100,Vigente,0
+POL00055,2025-12-18,Asesor_010,Antioquia,Negocios Masivos,Hogar,206700,Vigente,0
+POL00056,2025-12-14,Asesor_041,Santanderes,Affinity,Accidentes Personales,239700,Mora,7
+POL00057,2026-06-21,Asesor_006,Bogotá,Affinity,Exequial,70900,Vigente,0
+POL00058,2026-06-23,Asesor_009,Antioquia,Bancaseguros,Hogar,639100,Vigente,0
+POL00059,2026-05-15,Asesor_028,Eje Cafetero,Bancaseguros,Vida Deudor,96300,Cancelada,0
+POL00060,2026-05-07,Asesor_010,Antioquia,Affinity,Vida Deudor,509700,Vigente,0
+POL00061,2025-08-22,Asesor_009,Antioquia,Affinity,Hogar,767700,Cancelada,0
+POL00062,2026-01-31,Asesor_003,Bogotá,Negocios Masivos,Salud a su Medida,238400,Vigente,0
+POL00063,2026-02-25,Asesor_036,Santanderes,Negocios Masivos,Accidentes Personales,161000,Mora,111
+POL00064,2025-10-30,Asesor_011,Antioquia,Bancaseguros,Exequial,181200,Mora,101
+POL00065,2026-07-09,Asesor_027,Costa,Affinity,Salud a su Medida,164700,Vigente,0
+POL00066,2025-08-20,Asesor_025,Costa,Bancaseguros,Exequial,197700,Mora,45
+POL00067,2025-11-25,Asesor_020,Valle,Bancaseguros,Salud a su Medida,572900,Vigente,0
+POL00068,2025-09-05,Asesor_018,Valle,Affinity,Hogar,557800,Vigente,0
+POL00069,2026-01-17,Asesor_035,Santanderes,Bancaseguros,Vida Deudor,749800,Vigente,0
+POL00070,2025-12-14,Asesor_038,Santanderes,Bancaseguros,Vida Deudor,521200,Vigente,0
+POL00071,2026-03-12,Asesor_021,Costa,Negocios Masivos,Accidentes Personales,129300,Cancelada,0
+POL00072,2025-12-09,Asesor_013,Valle,Negocios Masivos,Vida Deudor,390400,Vigente,0
+POL00073,2026-07-10,Asesor_035,Santanderes,Affinity,Salud a su Medida,386500,Mora,118
+POL00074,2026-06-16,Asesor_022,Costa,Negocios Masivos,Hogar,726100,Vigente,0
+POL00075,2026-04-17,Asesor_020,Valle,Negocios Masivos,Hogar,367800,Vigente,0
+POL00076,2026-05-11,Asesor_019,Valle,Bancaseguros,Salud a su Medida,377700,Mora,87
+POL00077,2026-06-12,Asesor_012,Antioquia,Affinity,Accidentes Personales,366000,Cancelada,0
+POL00078,2025-12-25,Asesor_020,Valle,Affinity,Salud a su Medida,675400,Vigente,0
+POL00079,2026-03-27,Asesor_021,Costa,Affinity,Exequial,585600,Vigente,0
+POL00080,2026-07-04,Asesor_011,Antioquia,Affinity,Vida Deudor,455100,Vigente,0
+POL00081,2025-09-17,Asesor_022,Costa,Negocios Masivos,Salud a su Medida,288000,Cancelada,0
+POL00082,2025-08-13,Asesor_010,Antioquia,Bancaseguros,Vida Deudor,836900,Vigente,0
+POL00083,2026-03-22,Asesor_005,Bogotá,Negocios Masivos,Exequial,504200,Vigente,0
+POL00084,2026-04-11,Asesor_025,Costa,Bancaseguros,Exequial,155300,Vigente,0
+POL00085,2026-03-06,Asesor_007,Antioquia,Bancaseguros,Salud a su Medida,690300,Vigente,0
+POL00086,2025-08-26,Asesor_030,Eje Cafetero,Bancaseguros,Accidentes Personales,782700,Vigente,0
+POL00087,2026-03-26,Asesor_009,Antioquia,Negocios Masivos,Accidentes Personales,520300,Mora,115
+POL00088,2026-06-10,Asesor_029,Eje Cafetero,Affinity,Accidentes Personales,711900,Vigente,0
+POL00089,2026-04-01,Asesor_011,Antioquia,Affinity,Exequial,647700,Cancelada,0
+POL00090,2026-04-24,Asesor_018,Valle,Negocios Masivos,Exequial,230000,Vigente,0
+POL00091,2025-11-29,Asesor_019,Valle,Affinity,Hogar,295600,Vigente,0
+POL00092,2025-10-17,Asesor_009,Antioquia,Affinity,Salud a su Medida,600600,Vigente,0
+POL00093,2026-03-01,Asesor_005,Bogotá,Affinity,Exequial,477200,Vigente,0
+POL00094,2026-03-04,Asesor_014,Valle,Negocios Masivos,Exequial,806000,Vigente,0
+POL00095,2026-02-11,Asesor_037,Santanderes,Bancaseguros,Exequial,803300,Vigente,0
+POL00096,2026-03-03,Asesor_025,Costa,Negocios Masivos,Accidentes Personales,633700,Cancelada,0
+POL00097,2026-04-07,Asesor_015,Valle,Affinity,Salud a su Medida,390200,Vigente,0
+POL00098,2026-07-09,Asesor_022,Costa,Negocios Masivos,Exequial,169500,Vigente,0
+POL00099,2026-06-15,Asesor_009,Antioquia,Bancaseguros,Accidentes Personales,774100,Vigente,0
+POL00100,2025-09-12,Asesor_002,Bogotá,Bancaseguros,Exequial,741500,Vigente,0
+POL00101,2026-02-11,Asesor_017,Valle,Bancaseguros,Hogar,405600,Vigente,0
+POL00102,2025-12-21,Asesor_025,Costa,Affinity,Exequial,715500,Vigente,0
+POL00103,2025-08-27,Asesor_035,Santanderes,Bancaseguros,Hogar,564900,Cancelada,0
+POL00104,2025-08-16,Asesor_003,Bogotá,Bancaseguros,Salud a su Medida,719000,Vigente,0
+POL00105,2025-10-04,Asesor_016,Valle,Negocios Masivos,Exequial,128200,Mora,60
+POL00106,2026-02-05,Asesor_017,Valle,Negocios Masivos,Salud a su Medida,529900,Vigente,0
+POL00107,2025-10-23,Asesor_008,Antioquia,Bancaseguros,Hogar,506600,Mora,74
+POL00108,2026-02-20,Asesor_025,Costa,Bancaseguros,Salud a su Medida,517600,Cancelada,0
+POL00109,2025-09-22,Asesor_016,Valle,Negocios Masivos,Hogar,524300,Vigente,0
+POL00110,2025-08-22,Asesor_037,Santanderes,Negocios Masivos,Hogar,384100,Vigente,0
+POL00111,2026-06-28,Asesor_033,Eje Cafetero,Bancaseguros,Hogar,727400,Cancelada,0
+POL00112,2026-03-10,Asesor_007,Antioquia,Negocios Masivos,Hogar,761600,Vigente,0
+POL00113,2026-03-11,Asesor_010,Antioquia,Negocios Masivos,Salud a su Medida,460200,Vigente,0
+POL00114,2026-05-03,Asesor_040,Santanderes,Affinity,Exequial,390000,Vigente,0
+POL00115,2026-01-13,Asesor_018,Valle,Bancaseguros,Salud a su Medida,262300,Vigente,0
+POL00116,2026-05-19,Asesor_030,Eje Cafetero,Negocios Masivos,Accidentes Personales,343900,Vigente,0
+POL00117,2025-11-02,Asesor_021,Costa,Bancaseguros,Exequial,324200,Vigente,0
+POL00118,2026-06-02,Asesor_018,Valle,Negocios Masivos,Hogar,43300,Mora,11
+POL00119,2026-02-25,Asesor_016,Valle,Negocios Masivos,Exequial,652900,Vigente,0
+POL00120,2026-03-18,Asesor_032,Eje Cafetero,Bancaseguros,Vida Deudor,274800,Vigente,0
+POL00121,2026-01-04,Asesor_016,Valle,Affinity,Accidentes Personales,420700,Vigente,0
+POL00122,2026-05-09,Asesor_028,Eje Cafetero,Affinity,Hogar,607800,Vigente,0
+POL00123,2025-11-27,Asesor_017,Valle,Negocios Masivos,Vida Deudor,192000,Vigente,0
+POL00124,2025-11-03,Asesor_035,Santanderes,Bancaseguros,Salud a su Medida,637000,Vigente,0
+POL00125,2026-04-26,Asesor_038,Santanderes,Affinity,Accidentes Personales,834100,Cancelada,0
+POL00126,2025-11-25,Asesor_019,Valle,Bancaseguros,Hogar,281300,Vigente,0
+POL00127,2025-12-19,Asesor_009,Antioquia,Bancaseguros,Vida Deudor,486000,Vigente,0
+POL00128,2026-06-23,Asesor_009,Antioquia,Bancaseguros,Exequial,746300,Vigente,0
+POL00129,2026-04-03,Asesor_031,Eje Cafetero,Affinity,Exequial,185300,Vigente,0
+POL00130,2025-09-28,Asesor_031,Eje Cafetero,Affinity,Vida Deudor,435800,Vigente,0
+POL00131,2025-10-17,Asesor_004,Bogotá,Negocios Masivos,Salud a su Medida,808500,Vigente,0
+POL00132,2025-09-30,Asesor_016,Valle,Affinity,Accidentes Personales,529100,Cancelada,0
+POL00133,2026-04-25,Asesor_015,Valle,Affinity,Exequial,775400,Vigente,0
+POL00134,2026-03-08,Asesor_038,Santanderes,Negocios Masivos,Hogar,541100,Vigente,0
+POL00135,2025-11-15,Asesor_007,Antioquia,Affinity,Salud a su Medida,573200,Vigente,0
+POL00136,2026-05-10,Asesor_012,Antioquia,Bancaseguros,Vida Deudor,37200,Vigente,0
+POL00137,2026-03-29,Asesor_039,Santanderes,Bancaseguros,Hogar,223700,Vigente,0
+POL00138,2025-09-06,Asesor_030,Eje Cafetero,Affinity,Salud a su Medida,677100,Vigente,0
+POL00139,2026-03-06,Asesor_013,Valle,Negocios Masivos,Vida Deudor,218200,Vigente,0
+POL00140,2025-10-12,Asesor_018,Valle,Bancaseguros,Vida Deudor,170200,Vigente,0
+POL00141,2025-12-26,Asesor_037,Santanderes,Bancaseguros,Exequial,417000,Vigente,0
+POL00142,2025-12-18,Asesor_026,Costa,Negocios Masivos,Accidentes Personales,437400,Vigente,0
+POL00143,2026-03-10,Asesor_003,Bogotá,Negocios Masivos,Hogar,239000,Vigente,0
+POL00144,2026-05-28,Asesor_037,Santanderes,Negocios Masivos,Vida Deudor,704500,Vigente,0
+POL00145,2026-03-29,Asesor_012,Antioquia,Negocios Masivos,Accidentes Personales,395400,Vigente,0
+POL00146,2026-03-12,Asesor_038,Santanderes,Bancaseguros,Exequial,418100,Vigente,0
+POL00147,2026-07-10,Asesor_021,Costa,Bancaseguros,Vida Deudor,303800,Vigente,0
+POL00148,2026-07-06,Asesor_019,Valle,Negocios Masivos,Exequial,64900,Vigente,0
+POL00149,2026-01-13,Asesor_017,Valle,Affinity,Vida Deudor,739900,Cancelada,0
+POL00150,2026-07-03,Asesor_001,Bogotá,Affinity,Accidentes Personales,371800,Vigente,0
+POL00151,2026-06-15,Asesor_024,Costa,Negocios Masivos,Exequial,395300,Vigente,0
+POL00152,2026-05-09,Asesor_018,Valle,Affinity,Salud a su Medida,392100,Vigente,0
+POL00153,2025-08-15,Asesor_008,Antioquia,Bancaseguros,Accidentes Personales,613500,Vigente,0
+POL00154,2026-05-10,Asesor_001,Bogotá,Bancaseguros,Exequial,218100,Cancelada,0
+POL00155,2026-03-25,Asesor_008,Antioquia,Negocios Masivos,Vida Deudor,713200,Vigente,0
+POL00156,2026-04-18,Asesor_019,Valle,Affinity,Hogar,715300,Mora,32
+POL00157,2026-05-10,Asesor_030,Eje Cafetero,Affinity,Salud a su Medida,190300,Vigente,0
+POL00158,2025-09-05,Asesor_009,Antioquia,Affinity,Hogar,312000,Cancelada,0
+POL00159,2025-08-02,Asesor_018,Valle,Negocios Masivos,Hogar,278300,Vigente,0
+POL00160,2025-10-16,Asesor_032,Eje Cafetero,Negocios Masivos,Exequial,429700,Vigente,0
+POL00161,2026-02-10,Asesor_035,Santanderes,Affinity,Exequial,743700,Mora,31
+POL00162,2026-02-13,Asesor_037,Santanderes,Affinity,Salud a su Medida,70600,Vigente,0
+POL00163,2026-02-14,Asesor_025,Costa,Affinity,Salud a su Medida,821300,Vigente,0
+POL00164,2026-01-17,Asesor_038,Santanderes,Affinity,Vida Deudor,116300,Mora,2
+POL00165,2026-02-26,Asesor_010,Antioquia,Bancaseguros,Salud a su Medida,417600,Mora,44
+POL00166,2026-02-20,Asesor_040,Santanderes,Affinity,Vida Deudor,729700,Cancelada,0
+POL00167,2026-01-10,Asesor_025,Costa,Negocios Masivos,Exequial,64300,Vigente,0
+POL00168,2025-12-26,Asesor_041,Santanderes,Negocios Masivos,Salud a su Medida,108700,Mora,98
+POL00169,2025-09-21,Asesor_041,Santanderes,Bancaseguros,Exequial,600600,Mora,6
+POL00170,2025-08-29,Asesor_021,Costa,Affinity,Hogar,340500,Vigente,0
+POL00171,2026-02-27,Asesor_034,Eje Cafetero,Negocios Masivos,Accidentes Personales,680900,Vigente,0
+POL00172,2026-06-09,Asesor_006,Bogotá,Negocios Masivos,Exequial,591800,Vigente,0
+POL00173,2025-10-13,Asesor_038,Santanderes,Affinity,Salud a su Medida,554900,Vigente,0
+POL00174,2026-03-27,Asesor_001,Bogotá,Negocios Masivos,Hogar,480500,Vigente,0
+POL00175,2026-05-28,Asesor_023,Costa,Negocios Masivos,Hogar,819100,Vigente,0
+POL00176,2026-01-02,Asesor_030,Eje Cafetero,Affinity,Salud a su Medida,730500,Vigente,0
+POL00177,2026-05-20,Asesor_025,Costa,Negocios Masivos,Hogar,276100,Vigente,0
+POL00178,2026-07-04,Asesor_002,Bogotá,Affinity,Exequial,41600,Cancelada,0
+POL00179,2026-06-07,Asesor_004,Bogotá,Affinity,Exequial,667200,Vigente,0
+POL00180,2025-11-21,Asesor_023,Costa,Negocios Masivos,Salud a su Medida,239300,Vigente,0
+POL00181,2026-06-18,Asesor_009,Antioquia,Negocios Masivos,Vida Deudor,561800,Vigente,0
+POL00182,2025-08-18,Asesor_029,Eje Cafetero,Affinity,Accidentes Personales,631900,Vigente,0
+POL00183,2026-01-15,Asesor_019,Valle,Bancaseguros,Exequial,198600,Cancelada,0
+POL00184,2026-04-29,Asesor_024,Costa,Affinity,Accidentes Personales,711800,Vigente,0
+POL00185,2025-12-30,Asesor_031,Eje Cafetero,Bancaseguros,Hogar,416700,Vigente,0
+POL00186,2026-07-13,Asesor_015,Valle,Negocios Masivos,Exequial,333100,Cancelada,0
+POL00187,2025-12-14,Asesor_001,Bogotá,Bancaseguros,Accidentes Personales,405700,Vigente,0
+POL00188,2026-05-27,Asesor_017,Valle,Negocios Masivos,Exequial,801300,Vigente,0
+POL00189,2026-03-30,Asesor_015,Valle,Negocios Masivos,Vida Deudor,755700,Vigente,0
+POL00190,2025-11-22,Asesor_040,Santanderes,Negocios Masivos,Vida Deudor,706400,Mora,39
+POL00191,2025-09-29,Asesor_027,Costa,Bancaseguros,Salud a su Medida,806200,Vigente,0
+POL00192,2025-09-29,Asesor_032,Eje Cafetero,Bancaseguros,Vida Deudor,758100,Vigente,0
+POL00193,2026-02-06,Asesor_030,Eje Cafetero,Affinity,Accidentes Personales,513700,Vigente,0
+POL00194,2026-07-02,Asesor_027,Costa,Affinity,Vida Deudor,536800,Mora,36
+POL00195,2026-02-06,Asesor_003,Bogotá,Affinity,Salud a su Medida,397400,Vigente,0
+POL00196,2025-09-20,Asesor_024,Costa,Negocios Masivos,Hogar,769900,Vigente,0
+POL00197,2026-02-20,Asesor_004,Bogotá,Bancaseguros,Hogar,824100,Mora,106
+POL00198,2025-09-16,Asesor_030,Eje Cafetero,Negocios Masivos,Salud a su Medida,556200,Mora,7
+POL00199,2025-12-03,Asesor_022,Costa,Negocios Masivos,Salud a su Medida,202200,Cancelada,0
+POL00200,2025-11-15,Asesor_036,Santanderes,Bancaseguros,Accidentes Personales,697600,Vigente,0
+POL00201,2026-06-02,Asesor_010,Antioquia,Affinity,Vida Deudor,734600,Vigente,0
+POL00202,2026-05-04,Asesor_009,Antioquia,Bancaseguros,Hogar,124600,Cancelada,0
+POL00203,2025-08-08,Asesor_009,Antioquia,Bancaseguros,Hogar,514900,Vigente,0
+POL00204,2025-08-27,Asesor_017,Valle,Negocios Masivos,Salud a su Medida,378100,Vigente,0
+POL00205,2026-04-01,Asesor_005,Bogotá,Affinity,Exequial,453300,Vigente,0
+POL00206,2025-11-22,Asesor_033,Eje Cafetero,Bancaseguros,Accidentes Personales,627700,Mora,85
+POL00207,2026-01-02,Asesor_034,Eje Cafetero,Negocios Masivos,Exequial,820700,Vigente,0
+POL00208,2026-02-22,Asesor_031,Eje Cafetero,Negocios Masivos,Exequial,123000,Vigente,0
+POL00209,2025-09-07,Asesor_029,Eje Cafetero,Affinity,Vida Deudor,530800,Vigente,0
+POL00210,2026-06-16,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,615400,Vigente,0
+POL00211,2026-04-29,Asesor_039,Santanderes,Affinity,Hogar,447000,Vigente,0
+POL00212,2026-07-02,Asesor_008,Antioquia,Negocios Masivos,Accidentes Personales,740400,Vigente,0
+POL00213,2026-02-28,Asesor_015,Valle,Affinity,Hogar,360000,Vigente,0
+POL00214,2026-03-07,Asesor_021,Costa,Negocios Masivos,Hogar,242700,Mora,88
+POL00215,2025-09-04,Asesor_031,Eje Cafetero,Bancaseguros,Vida Deudor,111000,Vigente,0
+POL00216,2025-10-06,Asesor_024,Costa,Bancaseguros,Accidentes Personales,513000,Vigente,0
+POL00217,2026-07-10,Asesor_022,Costa,Affinity,Vida Deudor,323200,Vigente,0
+POL00218,2025-08-27,Asesor_028,Eje Cafetero,Negocios Masivos,Hogar,289600,Vigente,0
+POL00219,2025-11-17,Asesor_033,Eje Cafetero,Negocios Masivos,Salud a su Medida,428000,Cancelada,0
+POL00220,2026-05-12,Asesor_023,Costa,Bancaseguros,Hogar,656500,Vigente,0
+POL00221,2026-05-15,Asesor_028,Eje Cafetero,Negocios Masivos,Accidentes Personales,585100,Vigente,0
+POL00222,2026-07-03,Asesor_039,Santanderes,Bancaseguros,Hogar,182000,Vigente,0
+POL00223,2026-01-21,Asesor_020,Valle,Bancaseguros,Hogar,182800,Vigente,0
+POL00224,2025-09-05,Asesor_026,Costa,Negocios Masivos,Salud a su Medida,551000,Vigente,0
+POL00225,2025-11-19,Asesor_034,Eje Cafetero,Affinity,Exequial,404700,Vigente,0
+POL00226,2026-01-14,Asesor_020,Valle,Negocios Masivos,Accidentes Personales,104200,Vigente,0
+POL00227,2026-06-13,Asesor_011,Antioquia,Negocios Masivos,Vida Deudor,101500,Vigente,0
+POL00228,2026-04-06,Asesor_028,Eje Cafetero,Affinity,Accidentes Personales,372600,Vigente,0
+POL00229,2025-09-28,Asesor_033,Eje Cafetero,Affinity,Hogar,125400,Vigente,0
+POL00230,2026-04-07,Asesor_038,Santanderes,Negocios Masivos,Accidentes Personales,286400,Vigente,0
+POL00231,2025-08-29,Asesor_039,Santanderes,Bancaseguros,Vida Deudor,280700,Vigente,0
+POL00232,2025-12-09,Asesor_009,Antioquia,Affinity,Hogar,132800,Vigente,0
+POL00233,2025-10-29,Asesor_028,Eje Cafetero,Affinity,Salud a su Medida,469100,Vigente,0
+POL00234,2026-07-09,Asesor_036,Santanderes,Bancaseguros,Hogar,358600,Vigente,0
+POL00235,2025-08-10,Asesor_028,Eje Cafetero,Bancaseguros,Exequial,737600,Vigente,0
+POL00236,2026-02-24,Asesor_037,Santanderes,Affinity,Exequial,128900,Vigente,0
+POL00237,2025-10-27,Asesor_021,Costa,Affinity,Accidentes Personales,713100,Mora,12
+POL00238,2025-09-24,Asesor_028,Eje Cafetero,Affinity,Salud a su Medida,514900,Vigente,0
+POL00239,2026-01-06,Asesor_026,Costa,Bancaseguros,Hogar,306500,Vigente,0
+POL00240,2026-06-21,Asesor_033,Eje Cafetero,Negocios Masivos,Vida Deudor,450600,Mora,45
+POL00241,2026-06-27,Asesor_023,Costa,Bancaseguros,Salud a su Medida,118800,Vigente,0
+POL00242,2026-06-05,Asesor_012,Antioquia,Negocios Masivos,Salud a su Medida,96400,Mora,81
+POL00243,2026-03-26,Asesor_032,Eje Cafetero,Negocios Masivos,Accidentes Personales,400900,Mora,73
+POL00244,2026-06-16,Asesor_041,Santanderes,Negocios Masivos,Hogar,292700,Vigente,0
+POL00245,2026-03-15,Asesor_031,Eje Cafetero,Affinity,Hogar,517000,Vigente,0
+POL00246,2026-01-06,Asesor_005,Bogotá,Affinity,Exequial,65600,Vigente,0
+POL00247,2025-09-09,Asesor_019,Valle,Negocios Masivos,Vida Deudor,519200,Vigente,0
+POL00248,2026-05-11,Asesor_038,Santanderes,Affinity,Vida Deudor,775900,Vigente,0
+POL00249,2026-01-12,Asesor_013,Valle,Affinity,Accidentes Personales,443600,Mora,58
+POL00250,2026-01-23,Asesor_007,Antioquia,Negocios Masivos,Vida Deudor,561600,Vigente,0
+POL00251,2026-03-13,Asesor_029,Eje Cafetero,Negocios Masivos,Accidentes Personales,532000,Vigente,0
+POL00252,2026-02-15,Asesor_019,Valle,Affinity,Exequial,588300,Vigente,0
+POL00253,2026-06-28,Asesor_041,Santanderes,Bancaseguros,Hogar,303700,Vigente,0
+POL00254,2025-12-24,Asesor_025,Costa,Negocios Masivos,Hogar,729000,Mora,78
+POL00255,2026-01-18,Asesor_010,Antioquia,Negocios Masivos,Vida Deudor,575800,Mora,40
+POL00256,2025-10-06,Asesor_026,Costa,Negocios Masivos,Accidentes Personales,799500,Vigente,0
+POL00257,2026-06-26,Asesor_025,Costa,Bancaseguros,Hogar,581100,Cancelada,0
+POL00258,2025-09-17,Asesor_034,Eje Cafetero,Negocios Masivos,Exequial,329900,Vigente,0
+POL00259,2025-11-18,Asesor_012,Antioquia,Affinity,Hogar,191500,Mora,20
+POL00260,2025-12-30,Asesor_005,Bogotá,Negocios Masivos,Vida Deudor,663300,Cancelada,0
+POL00261,2025-08-20,Asesor_034,Eje Cafetero,Negocios Masivos,Hogar,141800,Vigente,0
+POL00262,2025-11-01,Asesor_011,Antioquia,Bancaseguros,Accidentes Personales,622800,Vigente,0
+POL00263,2026-07-13,Asesor_024,Costa,Affinity,Salud a su Medida,532600,Vigente,0
+POL00264,2025-11-28,Asesor_029,Eje Cafetero,Bancaseguros,Accidentes Personales,287200,Cancelada,0
+POL00265,2025-11-08,Asesor_031,Eje Cafetero,Negocios Masivos,Hogar,806900,Mora,60
+POL00266,2026-02-12,Asesor_019,Valle,Negocios Masivos,Accidentes Personales,376200,Vigente,0
+POL00267,2026-06-06,Asesor_013,Valle,Affinity,Salud a su Medida,77500,Vigente,0
+POL00268,2026-05-11,Asesor_024,Costa,Negocios Masivos,Vida Deudor,724400,Cancelada,0
+POL00269,2025-09-12,Asesor_019,Valle,Affinity,Salud a su Medida,401200,Vigente,0
+POL00270,2025-09-16,Asesor_028,Eje Cafetero,Affinity,Salud a su Medida,756000,Mora,54
+POL00271,2026-02-19,Asesor_004,Bogotá,Affinity,Accidentes Personales,227200,Mora,48
+POL00272,2025-08-15,Asesor_015,Valle,Bancaseguros,Hogar,718900,Vigente,0
+POL00273,2025-10-10,Asesor_010,Antioquia,Affinity,Vida Deudor,782700,Vigente,0
+POL00274,2026-03-29,Asesor_009,Antioquia,Negocios Masivos,Exequial,39300,Vigente,0
+POL00275,2025-11-19,Asesor_017,Valle,Negocios Masivos,Salud a su Medida,801300,Vigente,0
+POL00276,2025-09-26,Asesor_028,Eje Cafetero,Bancaseguros,Hogar,280400,Vigente,0
+POL00277,2026-06-24,Asesor_027,Costa,Affinity,Accidentes Personales,86200,Cancelada,0
+POL00278,2026-06-02,Asesor_032,Eje Cafetero,Bancaseguros,Accidentes Personales,550000,Vigente,0
+POL00279,2025-12-28,Asesor_010,Antioquia,Bancaseguros,Exequial,536100,Vigente,0
+POL00280,2025-11-04,Asesor_027,Costa,Negocios Masivos,Vida Deudor,829300,Vigente,0
+POL00281,2026-05-06,Asesor_034,Eje Cafetero,Negocios Masivos,Accidentes Personales,486600,Vigente,0
+POL00282,2025-08-23,Asesor_031,Eje Cafetero,Affinity,Exequial,241700,Vigente,0
+POL00283,2026-01-24,Asesor_005,Bogotá,Negocios Masivos,Salud a su Medida,570500,Vigente,0
+POL00284,2026-01-18,Asesor_038,Santanderes,Bancaseguros,Salud a su Medida,322100,Vigente,0
+POL00285,2026-03-26,Asesor_012,Antioquia,Negocios Masivos,Exequial,183600,Vigente,0
+POL00286,2025-08-19,Asesor_030,Eje Cafetero,Bancaseguros,Hogar,70700,Vigente,0
+POL00287,2026-01-09,Asesor_003,Bogotá,Negocios Masivos,Hogar,359600,Cancelada,0
+POL00288,2025-12-08,Asesor_031,Eje Cafetero,Negocios Masivos,Vida Deudor,190700,Vigente,0
+POL00289,2026-07-02,Asesor_004,Bogotá,Affinity,Hogar,136400,Vigente,0
+POL00290,2026-03-14,Asesor_026,Costa,Affinity,Exequial,828600,Vigente,0
+POL00291,2026-02-05,Asesor_032,Eje Cafetero,Affinity,Accidentes Personales,687900,Vigente,0
+POL00292,2026-03-09,Asesor_006,Bogotá,Bancaseguros,Accidentes Personales,479600,Vigente,0
+POL00293,2026-01-15,Asesor_006,Bogotá,Affinity,Hogar,398400,Vigente,0
+POL00294,2026-03-16,Asesor_011,Antioquia,Affinity,Hogar,69500,Cancelada,0
+POL00295,2026-06-11,Asesor_023,Costa,Affinity,Exequial,556200,Cancelada,0
+POL00296,2025-09-08,Asesor_004,Bogotá,Affinity,Exequial,453200,Vigente,0
+POL00297,2025-08-16,Asesor_011,Antioquia,Negocios Masivos,Salud a su Medida,587600,Vigente,0
+POL00298,2025-09-04,Asesor_009,Antioquia,Negocios Masivos,Salud a su Medida,333600,Vigente,0
+POL00299,2025-08-17,Asesor_037,Santanderes,Bancaseguros,Accidentes Personales,588400,Mora,48
+POL00300,2025-09-09,Asesor_029,Eje Cafetero,Bancaseguros,Accidentes Personales,466500,Vigente,0
+POL00301,2025-12-06,Asesor_018,Valle,Bancaseguros,Vida Deudor,634600,Vigente,0
+POL00302,2026-05-15,Asesor_025,Costa,Affinity,Vida Deudor,666600,Vigente,0
+POL00303,2026-06-10,Asesor_014,Valle,Negocios Masivos,Hogar,781900,Vigente,0
+POL00304,2025-10-09,Asesor_008,Antioquia,Affinity,Vida Deudor,175700,Vigente,0
+POL00305,2026-01-11,Asesor_006,Bogotá,Negocios Masivos,Hogar,87900,Vigente,0
+POL00306,2025-10-20,Asesor_020,Valle,Affinity,Salud a su Medida,449600,Vigente,0
+POL00307,2025-10-11,Asesor_013,Valle,Affinity,Salud a su Medida,56400,Vigente,0
+POL00308,2026-03-28,Asesor_024,Costa,Bancaseguros,Accidentes Personales,533700,Vigente,0
+POL00309,2026-02-20,Asesor_020,Valle,Negocios Masivos,Exequial,369800,Vigente,0
+POL00310,2025-09-07,Asesor_037,Santanderes,Affinity,Salud a su Medida,558500,Vigente,0
+POL00311,2026-01-24,Asesor_034,Eje Cafetero,Negocios Masivos,Salud a su Medida,556400,Vigente,0
+POL00312,2026-03-10,Asesor_009,Antioquia,Bancaseguros,Accidentes Personales,712600,Vigente,0
+POL00313,2025-10-24,Asesor_020,Valle,Affinity,Salud a su Medida,796800,Vigente,0
+POL00314,2025-12-24,Asesor_034,Eje Cafetero,Affinity,Vida Deudor,195000,Mora,36
+POL00315,2026-06-17,Asesor_009,Antioquia,Negocios Masivos,Hogar,469800,Vigente,0
+POL00316,2026-05-31,Asesor_011,Antioquia,Bancaseguros,Accidentes Personales,174500,Vigente,0
+POL00317,2026-01-20,Asesor_039,Santanderes,Bancaseguros,Accidentes Personales,707600,Vigente,0
+POL00318,2026-06-25,Asesor_003,Bogotá,Affinity,Accidentes Personales,565700,Vigente,0
+POL00319,2026-06-13,Asesor_027,Costa,Affinity,Vida Deudor,759500,Vigente,0
+POL00320,2026-04-05,Asesor_020,Valle,Negocios Masivos,Salud a su Medida,366000,Vigente,0
+POL00321,2025-10-20,Asesor_004,Bogotá,Affinity,Exequial,429700,Vigente,0
+POL00322,2025-10-13,Asesor_039,Santanderes,Negocios Masivos,Hogar,295200,Mora,45
+POL00323,2025-10-06,Asesor_026,Costa,Negocios Masivos,Hogar,492700,Vigente,0
+POL00324,2025-10-02,Asesor_030,Eje Cafetero,Affinity,Hogar,237100,Vigente,0
+POL00325,2026-02-13,Asesor_019,Valle,Affinity,Accidentes Personales,237300,Cancelada,0
+POL00326,2026-01-15,Asesor_011,Antioquia,Negocios Masivos,Accidentes Personales,289900,Vigente,0
+POL00327,2026-04-21,Asesor_032,Eje Cafetero,Affinity,Exequial,751400,Vigente,0
+POL00328,2026-02-18,Asesor_006,Bogotá,Affinity,Accidentes Personales,822800,Vigente,0
+POL00329,2025-08-25,Asesor_023,Costa,Affinity,Vida Deudor,438300,Cancelada,0
+POL00330,2025-12-25,Asesor_031,Eje Cafetero,Bancaseguros,Accidentes Personales,725400,Vigente,0
+POL00331,2026-02-04,Asesor_017,Valle,Affinity,Exequial,71900,Vigente,0
+POL00332,2025-11-08,Asesor_036,Santanderes,Negocios Masivos,Hogar,270200,Vigente,0
+POL00333,2026-05-09,Asesor_029,Eje Cafetero,Negocios Masivos,Hogar,589500,Vigente,0
+POL00334,2026-02-18,Asesor_007,Antioquia,Affinity,Hogar,489600,Vigente,0
+POL00335,2025-11-10,Asesor_010,Antioquia,Negocios Masivos,Accidentes Personales,362100,Vigente,0
+POL00336,2025-10-10,Asesor_003,Bogotá,Affinity,Hogar,458300,Vigente,0
+POL00337,2025-10-11,Asesor_033,Eje Cafetero,Negocios Masivos,Hogar,294600,Vigente,0
+POL00338,2026-01-01,Asesor_040,Santanderes,Affinity,Accidentes Personales,448500,Vigente,0
+POL00339,2026-05-16,Asesor_032,Eje Cafetero,Affinity,Hogar,699800,Vigente,0
+POL00340,2026-03-02,Asesor_008,Antioquia,Affinity,Accidentes Personales,684400,Vigente,0
+POL00341,2025-08-14,Asesor_041,Santanderes,Affinity,Accidentes Personales,251400,Vigente,0
+POL00342,2026-05-23,Asesor_038,Santanderes,Negocios Masivos,Salud a su Medida,76900,Vigente,0
+POL00343,2026-06-19,Asesor_034,Eje Cafetero,Affinity,Accidentes Personales,155400,Vigente,0
+POL00344,2026-05-21,Asesor_003,Bogotá,Bancaseguros,Vida Deudor,50400,Vigente,0
+POL00345,2026-02-28,Asesor_010,Antioquia,Affinity,Salud a su Medida,444000,Vigente,0
+POL00346,2025-09-01,Asesor_031,Eje Cafetero,Negocios Masivos,Salud a su Medida,204000,Vigente,0
+POL00347,2026-04-27,Asesor_031,Eje Cafetero,Affinity,Exequial,814700,Vigente,0
+POL00348,2026-01-23,Asesor_035,Santanderes,Affinity,Accidentes Personales,585800,Cancelada,0
+POL00349,2026-06-09,Asesor_017,Valle,Bancaseguros,Exequial,815200,Vigente,0
+POL00350,2025-11-24,Asesor_020,Valle,Affinity,Hogar,609500,Vigente,0
+POL00351,2026-01-10,Asesor_032,Eje Cafetero,Affinity,Exequial,491800,Mora,93
+POL00352,2025-12-26,Asesor_018,Valle,Negocios Masivos,Vida Deudor,586400,Vigente,0
+POL00353,2026-01-24,Asesor_026,Costa,Affinity,Salud a su Medida,69300,Mora,11
+POL00354,2026-03-15,Asesor_023,Costa,Negocios Masivos,Hogar,425400,Vigente,0
+POL00355,2025-12-17,Asesor_035,Santanderes,Negocios Masivos,Accidentes Personales,256400,Vigente,0
+POL00356,2025-12-01,Asesor_038,Santanderes,Bancaseguros,Salud a su Medida,580900,Vigente,0
+POL00357,2025-11-28,Asesor_041,Santanderes,Bancaseguros,Vida Deudor,371800,Vigente,0
+POL00358,2026-07-15,Asesor_007,Antioquia,Bancaseguros,Salud a su Medida,821100,Mora,21
+POL00359,2026-07-01,Asesor_027,Costa,Affinity,Exequial,565200,Vigente,0
+POL00360,2026-01-12,Asesor_019,Valle,Negocios Masivos,Hogar,83200,Vigente,0
+POL00361,2025-11-27,Asesor_037,Santanderes,Negocios Masivos,Accidentes Personales,624300,Mora,117
+POL00362,2026-03-02,Asesor_012,Antioquia,Bancaseguros,Salud a su Medida,847700,Vigente,0
+POL00363,2025-11-04,Asesor_032,Eje Cafetero,Bancaseguros,Hogar,42600,Vigente,0
+POL00364,2026-01-19,Asesor_007,Antioquia,Affinity,Hogar,841100,Vigente,0
+POL00365,2025-10-08,Asesor_032,Eje Cafetero,Affinity,Accidentes Personales,257400,Cancelada,0
+POL00366,2025-10-23,Asesor_022,Costa,Negocios Masivos,Exequial,244700,Vigente,0
+POL00367,2025-12-30,Asesor_022,Costa,Negocios Masivos,Accidentes Personales,652200,Vigente,0
+POL00368,2026-02-24,Asesor_041,Santanderes,Negocios Masivos,Exequial,302300,Vigente,0
+POL00369,2025-11-03,Asesor_007,Antioquia,Affinity,Salud a su Medida,298700,Vigente,0
+POL00370,2026-02-13,Asesor_017,Valle,Affinity,Salud a su Medida,649300,Mora,39
+POL00371,2026-05-21,Asesor_038,Santanderes,Affinity,Vida Deudor,567800,Vigente,0
+POL00372,2026-07-08,Asesor_004,Bogotá,Affinity,Vida Deudor,285000,Vigente,0
+POL00373,2026-01-07,Asesor_033,Eje Cafetero,Negocios Masivos,Vida Deudor,781600,Vigente,0
+POL00374,2025-11-22,Asesor_040,Santanderes,Bancaseguros,Salud a su Medida,424700,Vigente,0
+POL00375,2026-02-08,Asesor_039,Santanderes,Negocios Masivos,Exequial,482600,Vigente,0
+POL00376,2026-07-07,Asesor_035,Santanderes,Bancaseguros,Salud a su Medida,589500,Vigente,0
+POL00377,2026-04-27,Asesor_006,Bogotá,Negocios Masivos,Exequial,608600,Vigente,0
+POL00378,2025-09-27,Asesor_037,Santanderes,Negocios Masivos,Vida Deudor,770900,Vigente,0
+POL00379,2025-10-16,Asesor_035,Santanderes,Affinity,Salud a su Medida,731400,Vigente,0
+POL00380,2026-05-26,Asesor_014,Valle,Bancaseguros,Exequial,767600,Vigente,0
+POL00381,2026-03-21,Asesor_004,Bogotá,Negocios Masivos,Salud a su Medida,373600,Vigente,0
+POL00382,2026-03-25,Asesor_036,Santanderes,Negocios Masivos,Hogar,52700,Vigente,0
+POL00383,2025-11-20,Asesor_001,Bogotá,Bancaseguros,Accidentes Personales,71900,Vigente,0
+POL00384,2026-05-05,Asesor_005,Bogotá,Bancaseguros,Vida Deudor,838700,Vigente,0
+POL00385,2026-02-26,Asesor_019,Valle,Bancaseguros,Salud a su Medida,659100,Mora,83
+POL00386,2026-02-08,Asesor_027,Costa,Affinity,Exequial,743700,Mora,49
+POL00387,2026-07-05,Asesor_006,Bogotá,Bancaseguros,Accidentes Personales,567600,Vigente,0
+POL00388,2026-05-03,Asesor_012,Antioquia,Negocios Masivos,Exequial,138800,Mora,107
+POL00389,2025-08-12,Asesor_001,Bogotá,Affinity,Hogar,583900,Vigente,0
+POL00390,2026-02-11,Asesor_035,Santanderes,Bancaseguros,Salud a su Medida,410400,Vigente,0
+POL00391,2025-09-27,Asesor_013,Valle,Negocios Masivos,Vida Deudor,376700,Vigente,0
+POL00392,2025-12-02,Asesor_002,Bogotá,Bancaseguros,Salud a su Medida,117200,Vigente,0
+POL00393,2026-07-11,Asesor_039,Santanderes,Bancaseguros,Vida Deudor,638500,Vigente,0
+POL00394,2026-05-04,Asesor_015,Valle,Bancaseguros,Salud a su Medida,149200,Mora,30
+POL00395,2026-01-11,Asesor_037,Santanderes,Negocios Masivos,Accidentes Personales,664600,Cancelada,0
+POL00396,2026-01-02,Asesor_016,Valle,Negocios Masivos,Salud a su Medida,459800,Vigente,0
+POL00397,2025-09-01,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,752000,Mora,81
+POL00398,2026-05-12,Asesor_028,Eje Cafetero,Bancaseguros,Exequial,827400,Mora,86
+POL00399,2026-04-26,Asesor_025,Costa,Negocios Masivos,Hogar,374300,Vigente,0
+POL00400,2025-11-03,Asesor_025,Costa,Affinity,Accidentes Personales,231400,Vigente,0
+POL00401,2026-03-26,Asesor_010,Antioquia,Negocios Masivos,Vida Deudor,371300,Vigente,0
+POL00402,2025-10-08,Asesor_034,Eje Cafetero,Bancaseguros,Exequial,242800,Vigente,0
+POL00403,2026-03-19,Asesor_006,Bogotá,Bancaseguros,Hogar,471500,Cancelada,0
+POL00404,2025-12-16,Asesor_004,Bogotá,Negocios Masivos,Exequial,528100,Vigente,0
+POL00405,2025-11-05,Asesor_005,Bogotá,Negocios Masivos,Accidentes Personales,582200,Vigente,0
+POL00406,2026-01-18,Asesor_014,Valle,Bancaseguros,Hogar,207600,Vigente,0
+POL00407,2026-04-03,Asesor_008,Antioquia,Negocios Masivos,Salud a su Medida,527600,Vigente,0
+POL00408,2026-05-10,Asesor_016,Valle,Affinity,Hogar,345200,Vigente,0
+POL00409,2026-01-05,Asesor_023,Costa,Affinity,Hogar,452900,Vigente,0
+POL00410,2026-03-29,Asesor_007,Antioquia,Bancaseguros,Hogar,337100,Vigente,0
+POL00411,2025-11-22,Asesor_037,Santanderes,Bancaseguros,Salud a su Medida,247500,Mora,75
+POL00412,2025-12-30,Asesor_027,Costa,Bancaseguros,Salud a su Medida,303800,Vigente,0
+POL00413,2026-04-13,Asesor_016,Valle,Negocios Masivos,Accidentes Personales,803900,Vigente,0
+POL00414,2026-06-25,Asesor_032,Eje Cafetero,Affinity,Exequial,172100,Cancelada,0
+POL00415,2025-10-11,Asesor_011,Antioquia,Affinity,Accidentes Personales,185000,Cancelada,0
+POL00416,2026-04-26,Asesor_004,Bogotá,Bancaseguros,Vida Deudor,805300,Vigente,0
+POL00417,2026-02-28,Asesor_001,Bogotá,Negocios Masivos,Salud a su Medida,223600,Vigente,0
+POL00418,2025-11-20,Asesor_001,Bogotá,Affinity,Accidentes Personales,339200,Vigente,0
+POL00419,2026-04-05,Asesor_040,Santanderes,Bancaseguros,Exequial,40400,Vigente,0
+POL00420,2025-08-09,Asesor_001,Bogotá,Negocios Masivos,Accidentes Personales,258900,Mora,3
+POL00421,2026-07-12,Asesor_033,Eje Cafetero,Bancaseguros,Exequial,122200,Vigente,0
+POL00422,2025-12-02,Asesor_010,Antioquia,Negocios Masivos,Salud a su Medida,464100,Cancelada,0
+POL00423,2026-02-20,Asesor_018,Valle,Affinity,Vida Deudor,816800,Vigente,0
+POL00424,2025-11-24,Asesor_016,Valle,Negocios Masivos,Hogar,709900,Vigente,0
+POL00425,2025-09-17,Asesor_003,Bogotá,Affinity,Exequial,342400,Vigente,0
+POL00426,2025-08-05,Asesor_041,Santanderes,Bancaseguros,Salud a su Medida,442400,Vigente,0
+POL00427,2026-05-17,Asesor_022,Costa,Negocios Masivos,Vida Deudor,784100,Vigente,0
+POL00428,2026-04-01,Asesor_037,Santanderes,Bancaseguros,Hogar,788200,Vigente,0
+POL00429,2026-05-06,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,61800,Mora,41
+POL00430,2025-11-15,Asesor_002,Bogotá,Bancaseguros,Accidentes Personales,648100,Vigente,0
+POL00431,2025-09-09,Asesor_026,Costa,Bancaseguros,Hogar,494600,Vigente,0
+POL00432,2026-07-13,Asesor_025,Costa,Affinity,Accidentes Personales,347800,Vigente,0
+POL00433,2026-04-14,Asesor_006,Bogotá,Bancaseguros,Hogar,114600,Vigente,0
+POL00434,2026-01-22,Asesor_005,Bogotá,Negocios Masivos,Accidentes Personales,813200,Vigente,0
+POL00435,2025-08-16,Asesor_021,Costa,Affinity,Hogar,434800,Vigente,0
+POL00436,2026-03-10,Asesor_025,Costa,Negocios Masivos,Salud a su Medida,512500,Vigente,0
+POL00437,2025-12-30,Asesor_040,Santanderes,Negocios Masivos,Salud a su Medida,94900,Vigente,0
+POL00438,2026-06-21,Asesor_025,Costa,Negocios Masivos,Salud a su Medida,352500,Vigente,0
+POL00439,2025-08-03,Asesor_006,Bogotá,Affinity,Hogar,328300,Vigente,0
+POL00440,2025-09-14,Asesor_009,Antioquia,Affinity,Salud a su Medida,400800,Vigente,0
+POL00441,2025-09-22,Asesor_027,Costa,Bancaseguros,Vida Deudor,323400,Vigente,0
+POL00442,2026-01-14,Asesor_039,Santanderes,Bancaseguros,Exequial,272900,Vigente,0
+POL00443,2026-05-14,Asesor_006,Bogotá,Negocios Masivos,Salud a su Medida,459700,Vigente,0
+POL00444,2025-10-11,Asesor_011,Antioquia,Affinity,Hogar,253800,Vigente,0
+POL00445,2026-03-11,Asesor_011,Antioquia,Affinity,Hogar,279300,Cancelada,0
+POL00446,2025-12-07,Asesor_024,Costa,Negocios Masivos,Salud a su Medida,544400,Vigente,0
+POL00447,2026-03-23,Asesor_013,Valle,Bancaseguros,Vida Deudor,283300,Mora,43
+POL00448,2026-02-11,Asesor_040,Santanderes,Affinity,Hogar,307800,Cancelada,0
+POL00449,2025-10-09,Asesor_039,Santanderes,Affinity,Hogar,526600,Vigente,0
+POL00450,2026-01-08,Asesor_031,Eje Cafetero,Affinity,Salud a su Medida,824500,Vigente,0
+POL00451,2026-04-09,Asesor_041,Santanderes,Bancaseguros,Accidentes Personales,300600,Vigente,0
+POL00452,2026-02-03,Asesor_026,Costa,Negocios Masivos,Vida Deudor,197800,Mora,24
+POL00453,2025-08-14,Asesor_036,Santanderes,Negocios Masivos,Exequial,205900,Cancelada,0
+POL00454,2026-02-26,Asesor_005,Bogotá,Bancaseguros,Exequial,551200,Vigente,0
+POL00455,2026-03-05,Asesor_010,Antioquia,Bancaseguros,Exequial,401000,Vigente,0
+POL00456,2026-02-22,Asesor_038,Santanderes,Negocios Masivos,Accidentes Personales,787600,Cancelada,0
+POL00457,2026-05-06,Asesor_027,Costa,Affinity,Vida Deudor,606800,Cancelada,0
+POL00458,2026-06-23,Asesor_039,Santanderes,Bancaseguros,Vida Deudor,661700,Vigente,0
+POL00459,2025-10-25,Asesor_023,Costa,Bancaseguros,Accidentes Personales,494000,Vigente,0
+POL00460,2026-01-17,Asesor_026,Costa,Bancaseguros,Exequial,43600,Vigente,0
+POL00461,2026-04-23,Asesor_033,Eje Cafetero,Negocios Masivos,Accidentes Personales,595400,Vigente,0
+POL00462,2026-02-17,Asesor_024,Costa,Negocios Masivos,Exequial,514700,Vigente,0
+POL00463,2025-08-13,Asesor_023,Costa,Bancaseguros,Exequial,275800,Mora,11
+POL00464,2025-10-12,Asesor_008,Antioquia,Affinity,Hogar,314600,Cancelada,0
+POL00465,2026-04-05,Asesor_034,Eje Cafetero,Affinity,Hogar,114600,Vigente,0
+POL00466,2026-01-11,Asesor_029,Eje Cafetero,Affinity,Vida Deudor,71400,Vigente,0
+POL00467,2026-01-23,Asesor_002,Bogotá,Negocios Masivos,Vida Deudor,687000,Mora,95
+POL00468,2026-04-22,Asesor_016,Valle,Negocios Masivos,Salud a su Medida,165500,Vigente,0
+POL00469,2025-11-27,Asesor_030,Eje Cafetero,Negocios Masivos,Exequial,185300,Vigente,0
+POL00470,2026-02-19,Asesor_028,Eje Cafetero,Negocios Masivos,Vida Deudor,535500,Vigente,0
+POL00471,2026-03-08,Asesor_038,Santanderes,Bancaseguros,Exequial,609400,Vigente,0
+POL00472,2026-05-23,Asesor_005,Bogotá,Negocios Masivos,Vida Deudor,187400,Vigente,0
+POL00473,2025-09-28,Asesor_030,Eje Cafetero,Negocios Masivos,Hogar,738000,Vigente,0
+POL00474,2026-01-08,Asesor_041,Santanderes,Affinity,Accidentes Personales,533200,Vigente,0
+POL00475,2026-01-28,Asesor_023,Costa,Negocios Masivos,Exequial,175600,Vigente,0
+POL00476,2026-06-11,Asesor_020,Valle,Bancaseguros,Accidentes Personales,582800,Vigente,0
+POL00477,2026-01-04,Asesor_016,Valle,Bancaseguros,Vida Deudor,339200,Vigente,0
+POL00478,2026-03-03,Asesor_025,Costa,Bancaseguros,Accidentes Personales,503500,Vigente,0
+POL00479,2026-06-22,Asesor_032,Eje Cafetero,Negocios Masivos,Accidentes Personales,784100,Mora,23
+POL00480,2025-10-25,Asesor_036,Santanderes,Affinity,Exequial,149300,Vigente,0
+POL00481,2026-06-14,Asesor_029,Eje Cafetero,Affinity,Vida Deudor,810800,Vigente,0
+POL00482,2026-02-13,Asesor_013,Valle,Negocios Masivos,Accidentes Personales,567300,Vigente,0
+POL00483,2026-03-01,Asesor_032,Eje Cafetero,Affinity,Exequial,171300,Vigente,0
+POL00484,2025-12-28,Asesor_015,Valle,Affinity,Vida Deudor,218200,Vigente,0
+POL00485,2026-05-17,Asesor_030,Eje Cafetero,Negocios Masivos,Exequial,451300,Vigente,0
+POL00486,2026-05-06,Asesor_018,Valle,Negocios Masivos,Hogar,705400,Vigente,0
+POL00487,2026-05-07,Asesor_029,Eje Cafetero,Affinity,Salud a su Medida,118500,Cancelada,0
+POL00488,2025-12-31,Asesor_016,Valle,Affinity,Vida Deudor,249200,Cancelada,0
+POL00489,2026-03-13,Asesor_006,Bogotá,Bancaseguros,Vida Deudor,206100,Vigente,0
+POL00490,2026-06-09,Asesor_023,Costa,Bancaseguros,Exequial,537200,Cancelada,0
+POL00491,2025-08-31,Asesor_014,Valle,Affinity,Accidentes Personales,468800,Vigente,0
+POL00492,2026-01-13,Asesor_011,Antioquia,Affinity,Hogar,501800,Mora,66
+POL00493,2025-10-09,Asesor_007,Antioquia,Bancaseguros,Exequial,843900,Cancelada,0
+POL00494,2025-10-07,Asesor_009,Antioquia,Bancaseguros,Salud a su Medida,614800,Cancelada,0
+POL00495,2026-04-08,Asesor_026,Costa,Negocios Masivos,Salud a su Medida,550400,Vigente,0
+POL00496,2026-03-20,Asesor_025,Costa,Negocios Masivos,Vida Deudor,682600,Vigente,0
+POL00497,2026-04-21,Asesor_026,Costa,Negocios Masivos,Hogar,798100,Vigente,0
+POL00498,2026-01-15,Asesor_032,Eje Cafetero,Bancaseguros,Accidentes Personales,743200,Cancelada,0
+POL00499,2026-03-23,Asesor_006,Bogotá,Bancaseguros,Hogar,683500,Vigente,0
+POL00500,2025-11-17,Asesor_028,Eje Cafetero,Affinity,Exequial,298100,Vigente,0
+POL00501,2026-05-23,Asesor_036,Santanderes,Negocios Masivos,Salud a su Medida,729700,Cancelada,0
+POL00502,2025-08-24,Asesor_004,Bogotá,Negocios Masivos,Vida Deudor,673900,Vigente,0
+POL00503,2025-10-20,Asesor_008,Antioquia,Affinity,Exequial,35600,Mora,26
+POL00504,2026-06-29,Asesor_009,Antioquia,Bancaseguros,Hogar,747700,Cancelada,0
+POL00505,2026-07-02,Asesor_006,Bogotá,Affinity,Hogar,102200,Vigente,0
+POL00506,2025-08-27,Asesor_011,Antioquia,Negocios Masivos,Exequial,284000,Vigente,0
+POL00507,2026-03-08,Asesor_015,Valle,Negocios Masivos,Vida Deudor,112600,Vigente,0
+POL00508,2025-10-07,Asesor_005,Bogotá,Bancaseguros,Accidentes Personales,458300,Vigente,0
+POL00509,2026-01-23,Asesor_001,Bogotá,Affinity,Vida Deudor,600600,Vigente,0
+POL00510,2026-02-13,Asesor_015,Valle,Negocios Masivos,Vida Deudor,691900,Vigente,0
+POL00511,2026-01-01,Asesor_024,Costa,Affinity,Salud a su Medida,665400,Vigente,0
+POL00512,2026-06-25,Asesor_009,Antioquia,Bancaseguros,Salud a su Medida,467400,Vigente,0
+POL00513,2026-03-14,Asesor_011,Antioquia,Negocios Masivos,Hogar,208600,Vigente,0
+POL00514,2026-06-12,Asesor_027,Costa,Bancaseguros,Exequial,105700,Vigente,0
+POL00515,2026-05-29,Asesor_008,Antioquia,Affinity,Exequial,820000,Vigente,0
+POL00516,2025-12-05,Asesor_009,Antioquia,Negocios Masivos,Hogar,103700,Vigente,0
+POL00517,2026-06-08,Asesor_039,Santanderes,Negocios Masivos,Hogar,56900,Cancelada,0
+POL00518,2025-11-14,Asesor_020,Valle,Negocios Masivos,Accidentes Personales,450300,Vigente,0
+POL00519,2026-06-27,Asesor_019,Valle,Bancaseguros,Vida Deudor,438300,Vigente,0
+POL00520,2026-06-23,Asesor_032,Eje Cafetero,Bancaseguros,Accidentes Personales,465600,Mora,47
+POL00521,2025-10-07,Asesor_021,Costa,Negocios Masivos,Exequial,378000,Vigente,0
+POL00522,2026-03-30,Asesor_012,Antioquia,Bancaseguros,Vida Deudor,513700,Vigente,0
+POL00523,2025-08-21,Asesor_014,Valle,Affinity,Vida Deudor,447900,Vigente,0
+POL00524,2026-03-01,Asesor_033,Eje Cafetero,Negocios Masivos,Exequial,362900,Vigente,0
+POL00525,2026-06-12,Asesor_035,Santanderes,Affinity,Salud a su Medida,103100,Vigente,0
+POL00526,2025-10-19,Asesor_014,Valle,Affinity,Accidentes Personales,353400,Vigente,0
+POL00527,2026-01-06,Asesor_005,Bogotá,Negocios Masivos,Exequial,812000,Vigente,0
+POL00528,2025-09-14,Asesor_016,Valle,Bancaseguros,Exequial,404500,Vigente,0
+POL00529,2026-07-08,Asesor_020,Valle,Bancaseguros,Salud a su Medida,45300,Vigente,0
+POL00530,2025-10-23,Asesor_001,Bogotá,Affinity,Exequial,461200,Cancelada,0
+POL00531,2025-10-25,Asesor_017,Valle,Bancaseguros,Hogar,646100,Cancelada,0
+POL00532,2025-08-16,Asesor_008,Antioquia,Affinity,Hogar,256700,Vigente,0
+POL00533,2026-06-18,Asesor_037,Santanderes,Affinity,Vida Deudor,406000,Vigente,0
+POL00534,2026-05-18,Asesor_032,Eje Cafetero,Affinity,Salud a su Medida,163200,Vigente,0
+POL00535,2026-07-12,Asesor_037,Santanderes,Bancaseguros,Vida Deudor,638700,Vigente,0
+POL00536,2025-12-04,Asesor_001,Bogotá,Affinity,Vida Deudor,331600,Mora,23
+POL00537,2026-05-11,Asesor_003,Bogotá,Bancaseguros,Exequial,297300,Vigente,0
+POL00538,2025-12-17,Asesor_021,Costa,Negocios Masivos,Vida Deudor,338800,Vigente,0
+POL00539,2025-10-31,Asesor_004,Bogotá,Negocios Masivos,Salud a su Medida,834900,Mora,9
+POL00540,2025-12-23,Asesor_030,Eje Cafetero,Affinity,Hogar,105400,Vigente,0
+POL00541,2025-11-11,Asesor_024,Costa,Negocios Masivos,Hogar,674400,Vigente,0
+POL00542,2026-03-26,Asesor_016,Valle,Negocios Masivos,Hogar,827100,Mora,100
+POL00543,2026-05-07,Asesor_013,Valle,Bancaseguros,Salud a su Medida,40200,Vigente,0
+POL00544,2026-05-05,Asesor_015,Valle,Negocios Masivos,Hogar,719300,Cancelada,0
+POL00545,2025-08-01,Asesor_022,Costa,Negocios Masivos,Exequial,627700,Vigente,0
+POL00546,2025-11-30,Asesor_034,Eje Cafetero,Affinity,Exequial,818400,Mora,19
+POL00547,2025-09-17,Asesor_018,Valle,Bancaseguros,Vida Deudor,766300,Vigente,0
+POL00548,2026-03-23,Asesor_024,Costa,Negocios Masivos,Vida Deudor,112900,Vigente,0
+POL00549,2025-09-08,Asesor_026,Costa,Negocios Masivos,Accidentes Personales,85800,Vigente,0
+POL00550,2025-11-30,Asesor_009,Antioquia,Affinity,Hogar,728500,Mora,51
+POL00551,2026-01-10,Asesor_021,Costa,Affinity,Exequial,225400,Mora,18
+POL00552,2025-09-25,Asesor_038,Santanderes,Bancaseguros,Salud a su Medida,169000,Vigente,0
+POL00553,2025-10-01,Asesor_027,Costa,Affinity,Accidentes Personales,821200,Vigente,0
+POL00554,2026-03-26,Asesor_020,Valle,Bancaseguros,Hogar,108700,Cancelada,0
+POL00555,2026-06-05,Asesor_020,Valle,Bancaseguros,Vida Deudor,716300,Vigente,0
+POL00556,2025-12-06,Asesor_006,Bogotá,Affinity,Hogar,453500,Vigente,0
+POL00557,2025-10-29,Asesor_017,Valle,Affinity,Vida Deudor,731500,Vigente,0
+POL00558,2025-12-06,Asesor_036,Santanderes,Affinity,Vida Deudor,118100,Cancelada,0
+POL00559,2025-08-07,Asesor_008,Antioquia,Bancaseguros,Vida Deudor,141500,Cancelada,0
+POL00560,2026-06-19,Asesor_024,Costa,Negocios Masivos,Vida Deudor,512700,Mora,10
+POL00561,2025-09-03,Asesor_002,Bogotá,Negocios Masivos,Salud a su Medida,396400,Vigente,0
+POL00562,2025-10-02,Asesor_022,Costa,Affinity,Vida Deudor,76300,Mora,56
+POL00563,2026-04-12,Asesor_026,Costa,Affinity,Vida Deudor,591800,Vigente,0
+POL00564,2025-11-04,Asesor_014,Valle,Affinity,Hogar,398500,Vigente,0
+POL00565,2026-06-14,Asesor_040,Santanderes,Bancaseguros,Accidentes Personales,562500,Vigente,0
+POL00566,2026-04-03,Asesor_036,Santanderes,Bancaseguros,Vida Deudor,263000,Vigente,0
+POL00567,2026-06-26,Asesor_013,Valle,Bancaseguros,Accidentes Personales,549100,Cancelada,0
+POL00568,2026-02-12,Asesor_002,Bogotá,Affinity,Hogar,478800,Vigente,0
+POL00569,2026-04-15,Asesor_037,Santanderes,Affinity,Hogar,255400,Vigente,0
+POL00570,2025-11-21,Asesor_039,Santanderes,Affinity,Vida Deudor,82800,Mora,68
+POL00571,2026-05-27,Asesor_023,Costa,Bancaseguros,Salud a su Medida,116600,Vigente,0
+POL00572,2026-05-01,Asesor_018,Valle,Bancaseguros,Vida Deudor,504200,Mora,50
+POL00573,2025-10-28,Asesor_023,Costa,Bancaseguros,Salud a su Medida,517900,Cancelada,0
+POL00574,2026-05-30,Asesor_023,Costa,Negocios Masivos,Vida Deudor,606000,Mora,73
+POL00575,2026-05-16,Asesor_010,Antioquia,Affinity,Salud a su Medida,476800,Vigente,0
+POL00576,2025-09-16,Asesor_003,Bogotá,Bancaseguros,Vida Deudor,525400,Vigente,0
+POL00577,2025-08-01,Asesor_031,Eje Cafetero,Negocios Masivos,Hogar,199200,Vigente,0
+POL00578,2026-01-13,Asesor_012,Antioquia,Bancaseguros,Vida Deudor,155400,Vigente,0
+POL00579,2025-09-26,Asesor_010,Antioquia,Affinity,Accidentes Personales,817900,Vigente,0
+POL00580,2026-05-28,Asesor_026,Costa,Affinity,Vida Deudor,280900,Vigente,0
+POL00581,2026-03-12,Asesor_011,Antioquia,Negocios Masivos,Exequial,293600,Vigente,0
+POL00582,2026-06-11,Asesor_036,Santanderes,Bancaseguros,Hogar,577400,Cancelada,0
+POL00583,2026-01-05,Asesor_025,Costa,Bancaseguros,Hogar,179800,Vigente,0
+POL00584,2026-02-17,Asesor_037,Santanderes,Bancaseguros,Accidentes Personales,183400,Vigente,0
+POL00585,2025-11-22,Asesor_040,Santanderes,Bancaseguros,Accidentes Personales,798400,Vigente,0
+POL00586,2025-11-30,Asesor_005,Bogotá,Affinity,Hogar,171800,Cancelada,0
+POL00587,2026-07-10,Asesor_006,Bogotá,Affinity,Hogar,44300,Vigente,0
+POL00588,2026-01-27,Asesor_005,Bogotá,Bancaseguros,Hogar,622100,Vigente,0
+POL00589,2026-03-03,Asesor_029,Eje Cafetero,Affinity,Salud a su Medida,436900,Vigente,0
+POL00590,2026-02-09,Asesor_035,Santanderes,Affinity,Vida Deudor,677800,Vigente,0
+POL00591,2025-10-23,Asesor_015,Valle,Bancaseguros,Exequial,686300,Vigente,0
+POL00592,2026-01-11,Asesor_002,Bogotá,Bancaseguros,Hogar,95500,Vigente,0
+POL00593,2025-10-22,Asesor_025,Costa,Negocios Masivos,Vida Deudor,802600,Mora,44
+POL00594,2026-06-11,Asesor_039,Santanderes,Negocios Masivos,Exequial,60300,Mora,22
+POL00595,2026-03-11,Asesor_039,Santanderes,Bancaseguros,Salud a su Medida,117500,Vigente,0
+POL00596,2026-02-26,Asesor_013,Valle,Negocios Masivos,Accidentes Personales,789300,Vigente,0
+POL00597,2025-12-31,Asesor_019,Valle,Bancaseguros,Salud a su Medida,75500,Vigente,0
+POL00598,2025-10-18,Asesor_032,Eje Cafetero,Affinity,Vida Deudor,38100,Vigente,0
+POL00599,2026-06-04,Asesor_041,Santanderes,Bancaseguros,Exequial,114000,Vigente,0
+POL00600,2025-12-28,Asesor_041,Santanderes,Affinity,Vida Deudor,722700,Vigente,0
+POL00601,2026-03-30,Asesor_026,Costa,Negocios Masivos,Exequial,251000,Vigente,0
+POL00602,2025-11-03,Asesor_025,Costa,Affinity,Hogar,336100,Vigente,0
+POL00603,2026-03-14,Asesor_017,Valle,Affinity,Exequial,219400,Vigente,0
+POL00604,2025-10-17,Asesor_004,Bogotá,Bancaseguros,Vida Deudor,579500,Cancelada,0
+POL00605,2026-05-29,Asesor_027,Costa,Negocios Masivos,Salud a su Medida,84700,Vigente,0
+POL00606,2026-03-03,Asesor_034,Eje Cafetero,Negocios Masivos,Accidentes Personales,741500,Vigente,0
+POL00607,2026-04-01,Asesor_016,Valle,Bancaseguros,Hogar,356800,Cancelada,0
+POL00608,2026-04-15,Asesor_003,Bogotá,Negocios Masivos,Accidentes Personales,687400,Vigente,0
+POL00609,2025-10-15,Asesor_040,Santanderes,Affinity,Vida Deudor,175900,Mora,28
+POL00610,2025-10-04,Asesor_013,Valle,Affinity,Vida Deudor,98900,Vigente,0
+POL00611,2026-06-18,Asesor_013,Valle,Negocios Masivos,Salud a su Medida,245200,Mora,118
+POL00612,2025-09-14,Asesor_005,Bogotá,Negocios Masivos,Exequial,358800,Vigente,0
+POL00613,2026-04-24,Asesor_018,Valle,Bancaseguros,Exequial,676000,Vigente,0
+POL00614,2026-03-03,Asesor_034,Eje Cafetero,Affinity,Vida Deudor,157000,Vigente,0
+POL00615,2025-09-21,Asesor_038,Santanderes,Negocios Masivos,Vida Deudor,670300,Cancelada,0
+POL00616,2026-01-24,Asesor_035,Santanderes,Affinity,Exequial,347200,Vigente,0
+POL00617,2026-03-31,Asesor_039,Santanderes,Bancaseguros,Vida Deudor,259500,Vigente,0
+POL00618,2026-07-15,Asesor_039,Santanderes,Bancaseguros,Exequial,357600,Cancelada,0
+POL00619,2025-08-26,Asesor_016,Valle,Affinity,Exequial,766100,Vigente,0
+POL00620,2026-01-07,Asesor_020,Valle,Affinity,Hogar,734500,Vigente,0
+POL00621,2025-10-08,Asesor_015,Valle,Negocios Masivos,Hogar,396100,Cancelada,0
+POL00622,2026-03-02,Asesor_018,Valle,Negocios Masivos,Accidentes Personales,107800,Vigente,0
+POL00623,2026-04-06,Asesor_027,Costa,Affinity,Accidentes Personales,704100,Vigente,0
+POL00624,2025-09-03,Asesor_011,Antioquia,Negocios Masivos,Hogar,448000,Vigente,0
+POL00625,2026-05-19,Asesor_034,Eje Cafetero,Bancaseguros,Vida Deudor,192100,Cancelada,0
+POL00626,2025-12-06,Asesor_004,Bogotá,Affinity,Vida Deudor,76200,Vigente,0
+POL00627,2025-12-19,Asesor_013,Valle,Affinity,Hogar,446700,Vigente,0
+POL00628,2026-07-15,Asesor_008,Antioquia,Bancaseguros,Vida Deudor,338600,Vigente,0
+POL00629,2026-03-31,Asesor_012,Antioquia,Negocios Masivos,Accidentes Personales,320100,Vigente,0
+POL00630,2025-09-16,Asesor_017,Valle,Bancaseguros,Hogar,350100,Vigente,0
+POL00631,2025-11-18,Asesor_037,Santanderes,Negocios Masivos,Salud a su Medida,218500,Vigente,0
+POL00632,2026-04-20,Asesor_027,Costa,Negocios Masivos,Vida Deudor,42300,Mora,83
+POL00633,2026-06-04,Asesor_012,Antioquia,Bancaseguros,Vida Deudor,240700,Cancelada,0
+POL00634,2026-06-26,Asesor_020,Valle,Affinity,Hogar,764800,Cancelada,0
+POL00635,2025-12-08,Asesor_030,Eje Cafetero,Affinity,Salud a su Medida,281200,Vigente,0
+POL00636,2026-02-20,Asesor_040,Santanderes,Bancaseguros,Accidentes Personales,41000,Mora,108
+POL00637,2026-05-15,Asesor_024,Costa,Negocios Masivos,Accidentes Personales,265400,Vigente,0
+POL00638,2025-09-02,Asesor_031,Eje Cafetero,Affinity,Hogar,557100,Cancelada,0
+POL00639,2026-07-02,Asesor_017,Valle,Bancaseguros,Hogar,157200,Vigente,0
+POL00640,2026-06-04,Asesor_004,Bogotá,Negocios Masivos,Exequial,295500,Vigente,0
+POL00641,2026-07-02,Asesor_002,Bogotá,Affinity,Exequial,246400,Vigente,0
+POL00642,2025-08-19,Asesor_025,Costa,Negocios Masivos,Accidentes Personales,845700,Cancelada,0
+POL00643,2025-11-22,Asesor_022,Costa,Negocios Masivos,Accidentes Personales,674700,Mora,86
+POL00644,2026-04-17,Asesor_023,Costa,Bancaseguros,Hogar,720100,Cancelada,0
+POL00645,2025-12-29,Asesor_012,Antioquia,Affinity,Vida Deudor,139300,Vigente,0
+POL00646,2025-11-02,Asesor_036,Santanderes,Negocios Masivos,Hogar,107800,Vigente,0
+POL00647,2026-03-04,Asesor_020,Valle,Affinity,Hogar,247400,Vigente,0
+POL00648,2026-03-29,Asesor_008,Antioquia,Negocios Masivos,Vida Deudor,510600,Mora,10
+POL00649,2025-11-08,Asesor_031,Eje Cafetero,Bancaseguros,Accidentes Personales,742000,Vigente,0
+POL00650,2026-02-28,Asesor_020,Valle,Bancaseguros,Vida Deudor,147000,Vigente,0

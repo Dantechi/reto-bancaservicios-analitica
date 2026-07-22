@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Dashboard comercial de Bancaservicios"
+    >
+
+    <title>Dashboard Comercial | Bancaservicios</title>
+
+    <link
+        rel="stylesheet"
+        href="css/style.css"
+    >
+</head>
+
+<body>
+    <header class="encabezado">
+        <div class="contenedor">
+            <p class="encabezado__categoria">
+                Analítica comercial
+            </p>
+
+            <h1>
+                Dashboard de productividad comercial
+            </h1>
+
+            <p class="encabezado__descripcion">
+                Seguimiento de cartera vigente, prima mensual
+                y efectividad de la fuerza comercial.
+            </p>
+        </div>
+    </header>
+
+    <main class="contenedor">
+        <section
+            class="estado-carga"
+            id="estado-carga"
+            aria-live="polite"
+        >
+            Cargando información...
+        </section>
+
+        <section
+            class="dashboard oculto"
+            id="dashboard"
+        >
+            <!-- Resumen principal -->
+            <section class="cabecera-seccion">
+                <div>
+                    <h2>Resumen general</h2>
+
+                    <p>
+                        Indicadores consolidados de todos los
+                        asesores y regionales.
+                    </p>
+                </div>
+
+                <div class="fecha-actualizacion">
+                    Fuente: consulta maestra SQL
+                </div>
+            </section>
+
+            <!-- Filtros -->
+            <section class="barra-controles">
+                <div class="control-filtro">
+                    <label for="filtro-regional">
+                        Filtrar por regional
+                    </label>
+
+                    <select id="filtro-regional">
+                        <option value="Todas">
+                            Todas las regionales
+                        </option>
+                    </select>
+                </div>
+
+                <button
+                    type="button"
+                    class="boton-secundario"
+                    id="limpiar-filtro"
+                >
+                    Restablecer vista
+                </button>
+
+                <p
+                    class="resumen-filtro"
+                    id="resumen-filtro"
+                    aria-live="polite"
+                >
+                    Mostrando información consolidada
+                </p>
+            </section>
+
+            <!-- KPI -->
+            <section
+                class="kpis"
+                aria-label="Indicadores principales"
+            >
+                <article class="tarjeta-kpi">
+                    <span class="tarjeta-kpi__etiqueta">
+                        Pólizas vigentes
+                    </span>
+
+                    <strong
+                        class="tarjeta-kpi__valor"
+                        id="kpi-polizas"
+                    >
+                        0
+                    </strong>
+
+                    <span class="tarjeta-kpi__detalle">
+                        Total de la cartera activa
+                    </span>
+                </article>
+
+                <article class="tarjeta-kpi">
+                    <span class="tarjeta-kpi__etiqueta">
+                        Prima mensual vigente
+                    </span>
+
+                    <strong
+                        class="tarjeta-kpi__valor"
+                        id="kpi-prima"
+                    >
+                        $0
+                    </strong>
+
+                    <span class="tarjeta-kpi__detalle">
+                        Valor mensual consolidado
+                    </span>
+                </article>
+
+                <article class="tarjeta-kpi">
+                    <span class="tarjeta-kpi__etiqueta">
+                        Tasa de efectividad
+                    </span>
+
+                    <strong
+                        class="tarjeta-kpi__valor"
+                        id="kpi-efectividad"
+                    >
+                        0 %
+                    </strong>
+
+                    <span class="tarjeta-kpi__detalle">
+                        Gestiones efectivas / gestiones totales
+                    </span>
+                </article>
+            </section>
+
+            <!-- Hallazgo ejecutivo -->
+            <section
+                class="hallazgo-ejecutivo"
+                aria-live="polite"
+            >
+                <div class="hallazgo-ejecutivo__indicador">
+                    INSIGHT
+                </div>
+
+                <div>
+                    <h2 id="hallazgo-titulo">
+                        Lectura ejecutiva
+                    </h2>
+
+                    <p id="hallazgo-texto">
+                        Analizando los resultados comerciales...
+                    </p>
+                </div>
+            </section>
+
+            <!-- Gráfico de prima por regional -->
+            <section class="panel">
+                <div class="panel__cabecera">
+                    <div>
+                        <h2>Prima vigente por regional</h2>
+
+                        <p>
+                            Comparación de la prima mensual
+                            vigente entre las regionales.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="grafico-barras"
+                    id="grafico-regionales"
+                    aria-label="Gráfico de prima vigente por regional"
+                >
+                </div>
+            </section>
+
+            <!-- Gráfico de efectividad por regional -->
+            <section class="panel">
+                <div class="panel__cabecera">
+                    <div>
+                        <h2>Efectividad por regional</h2>
+
+                        <p>
+                            Porcentaje de gestiones efectivas
+                            sobre el total de gestiones realizadas.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="grafico-barras"
+                    id="grafico-efectividad"
+                    aria-label="Gráfico de efectividad por regional"
+                >
+                </div>
+
+                <p class="nota-metodologica">
+                    La tasa se calcula de forma ponderada:
+                    gestiones efectivas / gestiones totales.
+                </p>
+            </section>
+
+            <!-- Tabla top 10 -->
+            <section class="panel">
+                <div class="panel__cabecera">
+                    <div>
+                        <h2>Top 10 de asesores</h2>
+
+                        <p>
+                            Asesores con mayor prima mensual
+                            vigente.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="tabla-contenedor">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Posición</th>
+                                <th>Asesor</th>
+                                <th>Regional</th>
+                                <th>Pólizas vigentes</th>
+                                <th>Prima vigente</th>
+                                <th>Efectividad</th>
+                            </tr>
+                        </thead>
+
+                        <tbody id="tabla-asesores">
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </section>
+    </main>
+
+    <footer class="pie-pagina">
+        <div class="contenedor">
+            <p>
+                Reto técnico · Analítica Comercial · Bancaservicios
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/dashboard.js"></script>
+</body>
+</html>

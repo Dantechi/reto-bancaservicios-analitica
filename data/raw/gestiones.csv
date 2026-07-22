@@ -1,0 +1,1187 @@
+id_gestion,fecha_gestion,asesor,regional,tipo_gestion,resultado
+GES00001,2026-05-19,Asesor_001,Bogotá,WhatsApp,Efectiva
+GES00002,2025-11-01,Asesor_001,Bogotá,Llamada,No efectiva
+GES00003,2026-06-20,Asesor_001,Bogotá,Visita,Efectiva
+GES00004,2025-08-30,Asesor_001,Bogotá,Llamada,Efectiva
+GES00005,2025-11-16,Asesor_001,Bogotá,Visita,No efectiva
+GES00006,2025-10-21,Asesor_001,Bogotá,WhatsApp,No efectiva
+GES00007,2025-09-15,Asesor_001,Bogotá,Visita,No efectiva
+GES00008,2026-06-21,Asesor_001,Bogotá,WhatsApp,Efectiva
+GES00009,2026-04-02,Asesor_001,Bogotá,WhatsApp,Efectiva
+GES00010,2026-05-01,Asesor_001,Bogotá,Visita,No efectiva
+GES00011,2025-08-08,Asesor_001,Bogotá,Email,No efectiva
+GES00012,2026-04-29,Asesor_001,Bogotá,Visita,Efectiva
+GES00013,2025-08-03,Asesor_001,Bogotá,Visita,Efectiva
+GES00014,2026-01-24,Asesor_001,Bogotá,Email,Efectiva
+GES00015,2026-02-13,Asesor_001,Bogotá,Email,Efectiva
+GES00016,2025-08-24,Asesor_001,Bogotá,Email,No efectiva
+GES00017,2026-03-22,Asesor_001,Bogotá,Email,Efectiva
+GES00018,2025-10-08,Asesor_001,Bogotá,Email,No efectiva
+GES00019,2026-04-08,Asesor_001,Bogotá,Email,No efectiva
+GES00020,2025-10-24,Asesor_001,Bogotá,WhatsApp,Efectiva
+GES00021,2025-11-23,Asesor_001,Bogotá,Visita,Efectiva
+GES00022,2025-08-12,Asesor_001,Bogotá,Visita,Efectiva
+GES00023,2026-06-30,Asesor_001,Bogotá,Llamada,Efectiva
+GES00024,2026-06-24,Asesor_001,Bogotá,Email,No efectiva
+GES00025,2026-06-16,Asesor_001,Bogotá,Llamada,No efectiva
+GES00026,2025-08-25,Asesor_001,Bogotá,Llamada,No efectiva
+GES00027,2025-08-11,Asesor_001,Bogotá,Llamada,No efectiva
+GES00028,2026-03-02,Asesor_001,Bogotá,WhatsApp,Efectiva
+GES00029,2025-12-08,Asesor_002,Bogotá,WhatsApp,No efectiva
+GES00030,2025-11-14,Asesor_002,Bogotá,Llamada,Efectiva
+GES00031,2026-07-05,Asesor_002,Bogotá,Llamada,No efectiva
+GES00032,2025-12-17,Asesor_002,Bogotá,Visita,Efectiva
+GES00033,2025-09-23,Asesor_002,Bogotá,Llamada,Efectiva
+GES00034,2025-09-24,Asesor_002,Bogotá,WhatsApp,Efectiva
+GES00035,2025-11-11,Asesor_002,Bogotá,Email,No efectiva
+GES00036,2025-11-12,Asesor_002,Bogotá,Email,No efectiva
+GES00037,2025-12-30,Asesor_002,Bogotá,Visita,Efectiva
+GES00038,2026-04-12,Asesor_002,Bogotá,Visita,No efectiva
+GES00039,2026-04-04,Asesor_002,Bogotá,Email,Efectiva
+GES00040,2025-08-07,Asesor_002,Bogotá,Llamada,No efectiva
+GES00041,2026-05-21,Asesor_002,Bogotá,WhatsApp,Efectiva
+GES00042,2025-09-16,Asesor_002,Bogotá,Llamada,No efectiva
+GES00043,2025-09-21,Asesor_002,Bogotá,Email,No efectiva
+GES00044,2026-03-22,Asesor_002,Bogotá,Email,Efectiva
+GES00045,2025-08-26,Asesor_002,Bogotá,Llamada,No efectiva
+GES00046,2025-08-21,Asesor_002,Bogotá,Email,Efectiva
+GES00047,2026-07-13,Asesor_002,Bogotá,Email,Efectiva
+GES00048,2025-09-29,Asesor_002,Bogotá,Llamada,No efectiva
+GES00049,2025-08-24,Asesor_002,Bogotá,Llamada,No efectiva
+GES00050,2026-07-06,Asesor_002,Bogotá,Visita,Efectiva
+GES00051,2026-03-13,Asesor_002,Bogotá,Email,No efectiva
+GES00052,2025-09-17,Asesor_002,Bogotá,Email,No efectiva
+GES00053,2025-11-02,Asesor_002,Bogotá,Llamada,Efectiva
+GES00054,2026-03-22,Asesor_002,Bogotá,Email,No efectiva
+GES00055,2026-04-02,Asesor_002,Bogotá,WhatsApp,No efectiva
+GES00056,2025-10-25,Asesor_002,Bogotá,Llamada,Efectiva
+GES00057,2025-08-31,Asesor_002,Bogotá,Visita,Efectiva
+GES00058,2026-05-30,Asesor_002,Bogotá,WhatsApp,No efectiva
+GES00059,2026-07-14,Asesor_002,Bogotá,WhatsApp,Efectiva
+GES00060,2026-02-11,Asesor_002,Bogotá,Email,No efectiva
+GES00061,2025-10-06,Asesor_003,Bogotá,WhatsApp,No efectiva
+GES00062,2025-09-27,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00063,2025-09-02,Asesor_003,Bogotá,Email,No efectiva
+GES00064,2025-08-07,Asesor_003,Bogotá,Visita,No efectiva
+GES00065,2026-07-09,Asesor_003,Bogotá,Email,Efectiva
+GES00066,2026-06-13,Asesor_003,Bogotá,Llamada,Efectiva
+GES00067,2025-12-06,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00068,2026-07-13,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00069,2026-05-13,Asesor_003,Bogotá,Llamada,Efectiva
+GES00070,2025-10-20,Asesor_003,Bogotá,WhatsApp,No efectiva
+GES00071,2025-10-24,Asesor_003,Bogotá,Llamada,No efectiva
+GES00072,2026-01-12,Asesor_003,Bogotá,Visita,Efectiva
+GES00073,2025-12-21,Asesor_003,Bogotá,Llamada,Efectiva
+GES00074,2026-05-09,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00075,2025-11-29,Asesor_003,Bogotá,Llamada,Efectiva
+GES00076,2026-05-21,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00077,2026-04-13,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00078,2026-04-12,Asesor_003,Bogotá,Llamada,Efectiva
+GES00079,2026-02-28,Asesor_003,Bogotá,Llamada,Efectiva
+GES00080,2025-08-01,Asesor_003,Bogotá,Llamada,No efectiva
+GES00081,2026-06-13,Asesor_003,Bogotá,Email,No efectiva
+GES00082,2026-05-15,Asesor_003,Bogotá,Visita,No efectiva
+GES00083,2026-03-22,Asesor_003,Bogotá,Email,Efectiva
+GES00084,2025-08-28,Asesor_003,Bogotá,Visita,No efectiva
+GES00085,2026-01-17,Asesor_003,Bogotá,WhatsApp,No efectiva
+GES00086,2026-02-03,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00087,2026-07-04,Asesor_003,Bogotá,Visita,Efectiva
+GES00088,2026-01-29,Asesor_003,Bogotá,Email,Efectiva
+GES00089,2026-02-08,Asesor_003,Bogotá,Llamada,Efectiva
+GES00090,2025-10-24,Asesor_003,Bogotá,WhatsApp,Efectiva
+GES00091,2026-02-26,Asesor_003,Bogotá,Llamada,Efectiva
+GES00092,2025-11-09,Asesor_003,Bogotá,Visita,Efectiva
+GES00093,2026-02-18,Asesor_003,Bogotá,Visita,Efectiva
+GES00094,2025-11-06,Asesor_003,Bogotá,Email,Efectiva
+GES00095,2026-03-01,Asesor_003,Bogotá,Llamada,No efectiva
+GES00096,2026-07-11,Asesor_003,Bogotá,Llamada,No efectiva
+GES00097,2026-03-23,Asesor_004,Bogotá,Visita,No efectiva
+GES00098,2025-08-03,Asesor_004,Bogotá,Llamada,Efectiva
+GES00099,2026-03-10,Asesor_004,Bogotá,WhatsApp,No efectiva
+GES00100,2025-10-30,Asesor_004,Bogotá,Visita,No efectiva
+GES00101,2025-10-05,Asesor_004,Bogotá,Llamada,Efectiva
+GES00102,2026-06-04,Asesor_004,Bogotá,Email,Efectiva
+GES00103,2026-02-13,Asesor_004,Bogotá,WhatsApp,No efectiva
+GES00104,2025-12-06,Asesor_004,Bogotá,Email,Efectiva
+GES00105,2026-01-23,Asesor_004,Bogotá,Email,Efectiva
+GES00106,2025-10-08,Asesor_004,Bogotá,Visita,Efectiva
+GES00107,2026-04-20,Asesor_004,Bogotá,Email,No efectiva
+GES00108,2026-05-08,Asesor_004,Bogotá,Email,No efectiva
+GES00109,2026-05-11,Asesor_004,Bogotá,Visita,Efectiva
+GES00110,2026-06-16,Asesor_004,Bogotá,Email,No efectiva
+GES00111,2026-07-11,Asesor_004,Bogotá,Visita,No efectiva
+GES00112,2026-06-29,Asesor_004,Bogotá,Visita,Efectiva
+GES00113,2026-06-23,Asesor_004,Bogotá,Email,No efectiva
+GES00114,2026-01-28,Asesor_004,Bogotá,WhatsApp,Efectiva
+GES00115,2026-07-08,Asesor_004,Bogotá,WhatsApp,No efectiva
+GES00116,2026-05-01,Asesor_004,Bogotá,Email,No efectiva
+GES00117,2026-03-05,Asesor_004,Bogotá,Llamada,Efectiva
+GES00118,2025-08-13,Asesor_004,Bogotá,WhatsApp,Efectiva
+GES00119,2026-07-10,Asesor_004,Bogotá,Llamada,Efectiva
+GES00120,2025-10-22,Asesor_004,Bogotá,Email,No efectiva
+GES00121,2025-10-14,Asesor_004,Bogotá,Llamada,No efectiva
+GES00122,2025-12-30,Asesor_004,Bogotá,Visita,No efectiva
+GES00123,2025-08-17,Asesor_004,Bogotá,Email,No efectiva
+GES00124,2025-09-22,Asesor_004,Bogotá,Visita,No efectiva
+GES00125,2026-05-15,Asesor_004,Bogotá,WhatsApp,Efectiva
+GES00126,2025-12-26,Asesor_005,Bogotá,Llamada,No efectiva
+GES00127,2026-02-15,Asesor_005,Bogotá,WhatsApp,No efectiva
+GES00128,2026-01-08,Asesor_005,Bogotá,Llamada,Efectiva
+GES00129,2025-12-07,Asesor_005,Bogotá,Visita,No efectiva
+GES00130,2026-03-15,Asesor_005,Bogotá,Visita,No efectiva
+GES00131,2026-06-28,Asesor_005,Bogotá,Email,No efectiva
+GES00132,2026-05-07,Asesor_005,Bogotá,Visita,No efectiva
+GES00133,2025-11-08,Asesor_005,Bogotá,Email,Efectiva
+GES00134,2025-09-08,Asesor_005,Bogotá,Visita,No efectiva
+GES00135,2026-04-21,Asesor_005,Bogotá,Llamada,Efectiva
+GES00136,2026-03-08,Asesor_005,Bogotá,Email,Efectiva
+GES00137,2025-10-06,Asesor_005,Bogotá,Visita,No efectiva
+GES00138,2025-12-09,Asesor_005,Bogotá,Llamada,Efectiva
+GES00139,2025-10-19,Asesor_005,Bogotá,Llamada,Efectiva
+GES00140,2026-01-13,Asesor_005,Bogotá,Llamada,No efectiva
+GES00141,2026-06-17,Asesor_005,Bogotá,Email,Efectiva
+GES00142,2026-05-21,Asesor_005,Bogotá,Email,Efectiva
+GES00143,2026-01-10,Asesor_005,Bogotá,Visita,No efectiva
+GES00144,2026-04-24,Asesor_005,Bogotá,Llamada,No efectiva
+GES00145,2025-10-21,Asesor_005,Bogotá,WhatsApp,Efectiva
+GES00146,2026-02-23,Asesor_005,Bogotá,Llamada,Efectiva
+GES00147,2025-11-18,Asesor_005,Bogotá,Email,Efectiva
+GES00148,2025-12-29,Asesor_005,Bogotá,Visita,No efectiva
+GES00149,2026-06-13,Asesor_005,Bogotá,WhatsApp,No efectiva
+GES00150,2026-06-29,Asesor_005,Bogotá,Llamada,Efectiva
+GES00151,2026-01-25,Asesor_005,Bogotá,WhatsApp,Efectiva
+GES00152,2026-06-25,Asesor_005,Bogotá,Visita,No efectiva
+GES00153,2026-01-12,Asesor_005,Bogotá,WhatsApp,No efectiva
+GES00154,2025-09-28,Asesor_005,Bogotá,WhatsApp,Efectiva
+GES00155,2025-12-23,Asesor_005,Bogotá,Llamada,No efectiva
+GES00156,2026-02-08,Asesor_005,Bogotá,WhatsApp,Efectiva
+GES00157,2025-12-30,Asesor_005,Bogotá,Visita,Efectiva
+GES00158,2025-09-12,Asesor_005,Bogotá,Llamada,Efectiva
+GES00159,2026-05-03,Asesor_005,Bogotá,Llamada,No efectiva
+GES00160,2025-11-16,Asesor_005,Bogotá,Visita,No efectiva
+GES00161,2026-03-06,Asesor_005,Bogotá,Llamada,Efectiva
+GES00162,2026-03-11,Asesor_005,Bogotá,Llamada,No efectiva
+GES00163,2025-10-18,Asesor_005,Bogotá,Llamada,Efectiva
+GES00164,2026-01-17,Asesor_005,Bogotá,Llamada,Efectiva
+GES00165,2025-08-28,Asesor_005,Bogotá,Visita,No efectiva
+GES00166,2025-09-06,Asesor_006,Bogotá,Visita,No efectiva
+GES00167,2026-02-25,Asesor_006,Bogotá,WhatsApp,Efectiva
+GES00168,2026-02-24,Asesor_006,Bogotá,WhatsApp,Efectiva
+GES00169,2026-02-16,Asesor_006,Bogotá,Llamada,Efectiva
+GES00170,2026-06-25,Asesor_006,Bogotá,Llamada,No efectiva
+GES00171,2026-05-27,Asesor_006,Bogotá,Llamada,No efectiva
+GES00172,2025-09-07,Asesor_006,Bogotá,Email,No efectiva
+GES00173,2025-09-24,Asesor_006,Bogotá,Email,No efectiva
+GES00174,2026-01-02,Asesor_006,Bogotá,Llamada,Efectiva
+GES00175,2026-03-13,Asesor_006,Bogotá,WhatsApp,Efectiva
+GES00176,2026-07-05,Asesor_006,Bogotá,Llamada,Efectiva
+GES00177,2026-05-01,Asesor_006,Bogotá,Visita,Efectiva
+GES00178,2026-02-17,Asesor_006,Bogotá,Email,No efectiva
+GES00179,2025-10-13,Asesor_006,Bogotá,Email,No efectiva
+GES00180,2026-06-28,Asesor_006,Bogotá,Email,No efectiva
+GES00181,2025-08-06,Asesor_006,Bogotá,Visita,Efectiva
+GES00182,2025-08-03,Asesor_006,Bogotá,WhatsApp,Efectiva
+GES00183,2025-09-13,Asesor_006,Bogotá,Email,Efectiva
+GES00184,2026-01-24,Asesor_006,Bogotá,Visita,Efectiva
+GES00185,2026-06-27,Asesor_006,Bogotá,Visita,Efectiva
+GES00186,2025-11-22,Asesor_006,Bogotá,Email,Efectiva
+GES00187,2025-11-01,Asesor_006,Bogotá,Llamada,No efectiva
+GES00188,2026-05-09,Asesor_006,Bogotá,WhatsApp,No efectiva
+GES00189,2025-09-07,Asesor_006,Bogotá,Email,No efectiva
+GES00190,2025-12-07,Asesor_006,Bogotá,Llamada,Efectiva
+GES00191,2026-05-25,Asesor_006,Bogotá,WhatsApp,No efectiva
+GES00192,2026-01-30,Asesor_006,Bogotá,Visita,No efectiva
+GES00193,2025-11-29,Asesor_006,Bogotá,Llamada,Efectiva
+GES00194,2025-09-05,Asesor_006,Bogotá,Visita,Efectiva
+GES00195,2026-03-19,Asesor_006,Bogotá,Email,No efectiva
+GES00196,2026-01-04,Asesor_006,Bogotá,Visita,Efectiva
+GES00197,2026-02-03,Asesor_006,Bogotá,Email,No efectiva
+GES00198,2025-08-03,Asesor_007,Antioquia,Email,Efectiva
+GES00199,2025-11-22,Asesor_007,Antioquia,WhatsApp,Efectiva
+GES00200,2026-02-01,Asesor_007,Antioquia,Visita,No efectiva
+GES00201,2026-01-17,Asesor_007,Antioquia,WhatsApp,No efectiva
+GES00202,2026-01-31,Asesor_007,Antioquia,Email,No efectiva
+GES00203,2025-09-25,Asesor_007,Antioquia,Visita,No efectiva
+GES00204,2025-09-11,Asesor_007,Antioquia,Email,No efectiva
+GES00205,2025-10-11,Asesor_007,Antioquia,Visita,Efectiva
+GES00206,2026-06-17,Asesor_007,Antioquia,Llamada,No efectiva
+GES00207,2025-08-10,Asesor_007,Antioquia,Llamada,No efectiva
+GES00208,2026-05-24,Asesor_007,Antioquia,WhatsApp,No efectiva
+GES00209,2025-11-17,Asesor_007,Antioquia,Llamada,No efectiva
+GES00210,2026-05-06,Asesor_007,Antioquia,WhatsApp,No efectiva
+GES00211,2025-10-16,Asesor_007,Antioquia,Email,No efectiva
+GES00212,2026-05-29,Asesor_007,Antioquia,Email,Efectiva
+GES00213,2026-04-14,Asesor_007,Antioquia,Llamada,No efectiva
+GES00214,2026-04-15,Asesor_007,Antioquia,Llamada,No efectiva
+GES00215,2026-06-11,Asesor_007,Antioquia,Visita,No efectiva
+GES00216,2025-10-11,Asesor_007,Antioquia,WhatsApp,Efectiva
+GES00217,2026-05-17,Asesor_007,Antioquia,Visita,No efectiva
+GES00218,2026-01-31,Asesor_008,Antioquia,Llamada,Efectiva
+GES00219,2026-04-07,Asesor_008,Antioquia,Visita,Efectiva
+GES00220,2026-02-06,Asesor_008,Antioquia,Visita,Efectiva
+GES00221,2025-11-14,Asesor_008,Antioquia,Email,Efectiva
+GES00222,2026-03-21,Asesor_008,Antioquia,Llamada,Efectiva
+GES00223,2026-06-29,Asesor_008,Antioquia,Email,Efectiva
+GES00224,2026-04-24,Asesor_008,Antioquia,Email,No efectiva
+GES00225,2025-12-13,Asesor_008,Antioquia,Visita,Efectiva
+GES00226,2026-02-10,Asesor_008,Antioquia,Email,No efectiva
+GES00227,2025-09-09,Asesor_008,Antioquia,Email,Efectiva
+GES00228,2025-11-23,Asesor_008,Antioquia,WhatsApp,Efectiva
+GES00229,2026-01-24,Asesor_008,Antioquia,WhatsApp,No efectiva
+GES00230,2026-06-06,Asesor_008,Antioquia,Llamada,No efectiva
+GES00231,2025-10-11,Asesor_008,Antioquia,WhatsApp,Efectiva
+GES00232,2025-09-09,Asesor_008,Antioquia,Email,Efectiva
+GES00233,2025-11-04,Asesor_008,Antioquia,Visita,Efectiva
+GES00234,2025-09-30,Asesor_008,Antioquia,Visita,No efectiva
+GES00235,2026-01-17,Asesor_008,Antioquia,Llamada,No efectiva
+GES00236,2026-04-03,Asesor_008,Antioquia,WhatsApp,Efectiva
+GES00237,2025-10-22,Asesor_008,Antioquia,WhatsApp,Efectiva
+GES00238,2025-08-23,Asesor_008,Antioquia,Visita,No efectiva
+GES00239,2025-10-22,Asesor_008,Antioquia,Visita,No efectiva
+GES00240,2025-08-21,Asesor_008,Antioquia,Visita,Efectiva
+GES00241,2025-12-11,Asesor_008,Antioquia,Visita,No efectiva
+GES00242,2026-02-24,Asesor_008,Antioquia,Llamada,No efectiva
+GES00243,2026-07-05,Asesor_008,Antioquia,Email,No efectiva
+GES00244,2025-11-19,Asesor_008,Antioquia,WhatsApp,No efectiva
+GES00245,2026-03-30,Asesor_008,Antioquia,WhatsApp,Efectiva
+GES00246,2026-02-27,Asesor_008,Antioquia,Visita,No efectiva
+GES00247,2025-11-02,Asesor_008,Antioquia,Email,Efectiva
+GES00248,2026-01-23,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00249,2025-09-05,Asesor_009,Antioquia,Visita,Efectiva
+GES00250,2025-10-07,Asesor_009,Antioquia,Llamada,Efectiva
+GES00251,2026-04-25,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00252,2026-06-07,Asesor_009,Antioquia,Llamada,Efectiva
+GES00253,2026-06-11,Asesor_009,Antioquia,Llamada,No efectiva
+GES00254,2026-04-30,Asesor_009,Antioquia,Llamada,Efectiva
+GES00255,2026-07-04,Asesor_009,Antioquia,Visita,No efectiva
+GES00256,2026-05-04,Asesor_009,Antioquia,Llamada,No efectiva
+GES00257,2026-07-14,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00258,2026-02-06,Asesor_009,Antioquia,Llamada,No efectiva
+GES00259,2026-03-08,Asesor_009,Antioquia,Visita,No efectiva
+GES00260,2026-04-04,Asesor_009,Antioquia,WhatsApp,Efectiva
+GES00261,2026-05-22,Asesor_009,Antioquia,Llamada,No efectiva
+GES00262,2025-12-09,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00263,2025-09-12,Asesor_009,Antioquia,Email,No efectiva
+GES00264,2026-05-06,Asesor_009,Antioquia,WhatsApp,Efectiva
+GES00265,2025-08-03,Asesor_009,Antioquia,Llamada,No efectiva
+GES00266,2025-09-30,Asesor_009,Antioquia,Llamada,Efectiva
+GES00267,2025-11-14,Asesor_009,Antioquia,Email,No efectiva
+GES00268,2025-09-24,Asesor_009,Antioquia,Visita,No efectiva
+GES00269,2026-05-27,Asesor_009,Antioquia,Email,Efectiva
+GES00270,2026-05-02,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00271,2026-06-10,Asesor_009,Antioquia,Email,No efectiva
+GES00272,2026-02-20,Asesor_009,Antioquia,Visita,No efectiva
+GES00273,2026-05-13,Asesor_009,Antioquia,WhatsApp,Efectiva
+GES00274,2026-05-14,Asesor_009,Antioquia,WhatsApp,Efectiva
+GES00275,2026-01-05,Asesor_009,Antioquia,Email,No efectiva
+GES00276,2026-02-20,Asesor_009,Antioquia,Visita,No efectiva
+GES00277,2026-07-04,Asesor_009,Antioquia,Llamada,No efectiva
+GES00278,2026-03-17,Asesor_009,Antioquia,Visita,Efectiva
+GES00279,2026-04-18,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00280,2026-05-09,Asesor_009,Antioquia,Llamada,Efectiva
+GES00281,2026-06-22,Asesor_009,Antioquia,Llamada,No efectiva
+GES00282,2025-10-14,Asesor_009,Antioquia,WhatsApp,No efectiva
+GES00283,2026-03-11,Asesor_009,Antioquia,Llamada,Efectiva
+GES00284,2026-02-06,Asesor_010,Antioquia,Llamada,No efectiva
+GES00285,2026-02-13,Asesor_010,Antioquia,WhatsApp,No efectiva
+GES00286,2026-04-24,Asesor_010,Antioquia,Email,No efectiva
+GES00287,2026-06-02,Asesor_010,Antioquia,Llamada,No efectiva
+GES00288,2025-10-29,Asesor_010,Antioquia,WhatsApp,Efectiva
+GES00289,2025-11-12,Asesor_010,Antioquia,Email,Efectiva
+GES00290,2026-06-03,Asesor_010,Antioquia,Visita,No efectiva
+GES00291,2026-07-12,Asesor_010,Antioquia,Llamada,Efectiva
+GES00292,2026-07-02,Asesor_010,Antioquia,Llamada,No efectiva
+GES00293,2025-09-14,Asesor_010,Antioquia,Email,No efectiva
+GES00294,2026-01-28,Asesor_010,Antioquia,WhatsApp,Efectiva
+GES00295,2025-11-11,Asesor_010,Antioquia,Llamada,No efectiva
+GES00296,2025-09-05,Asesor_010,Antioquia,Llamada,No efectiva
+GES00297,2026-05-14,Asesor_010,Antioquia,Email,Efectiva
+GES00298,2025-12-20,Asesor_010,Antioquia,Visita,No efectiva
+GES00299,2025-11-08,Asesor_010,Antioquia,WhatsApp,No efectiva
+GES00300,2026-05-22,Asesor_010,Antioquia,Llamada,Efectiva
+GES00301,2026-02-25,Asesor_010,Antioquia,Llamada,No efectiva
+GES00302,2026-04-15,Asesor_010,Antioquia,Email,Efectiva
+GES00303,2025-09-29,Asesor_010,Antioquia,Email,No efectiva
+GES00304,2026-05-22,Asesor_010,Antioquia,Email,No efectiva
+GES00305,2026-02-10,Asesor_010,Antioquia,WhatsApp,No efectiva
+GES00306,2026-01-21,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00307,2026-05-28,Asesor_011,Antioquia,Llamada,Efectiva
+GES00308,2025-12-11,Asesor_011,Antioquia,Llamada,Efectiva
+GES00309,2025-11-21,Asesor_011,Antioquia,Visita,No efectiva
+GES00310,2026-02-28,Asesor_011,Antioquia,Email,Efectiva
+GES00311,2025-08-05,Asesor_011,Antioquia,Email,Efectiva
+GES00312,2025-09-17,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00313,2026-01-23,Asesor_011,Antioquia,Llamada,Efectiva
+GES00314,2025-10-31,Asesor_011,Antioquia,WhatsApp,Efectiva
+GES00315,2025-11-20,Asesor_011,Antioquia,Email,Efectiva
+GES00316,2025-11-06,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00317,2025-11-29,Asesor_011,Antioquia,Visita,No efectiva
+GES00318,2025-11-14,Asesor_011,Antioquia,Visita,Efectiva
+GES00319,2025-12-06,Asesor_011,Antioquia,Email,Efectiva
+GES00320,2025-09-24,Asesor_011,Antioquia,Llamada,No efectiva
+GES00321,2026-07-13,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00322,2026-05-05,Asesor_011,Antioquia,Llamada,No efectiva
+GES00323,2026-02-07,Asesor_011,Antioquia,Email,Efectiva
+GES00324,2026-05-22,Asesor_011,Antioquia,Email,Efectiva
+GES00325,2026-04-19,Asesor_011,Antioquia,Email,Efectiva
+GES00326,2026-05-23,Asesor_011,Antioquia,Visita,Efectiva
+GES00327,2026-03-05,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00328,2025-08-17,Asesor_011,Antioquia,Email,Efectiva
+GES00329,2025-10-29,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00330,2026-04-23,Asesor_011,Antioquia,WhatsApp,Efectiva
+GES00331,2025-08-05,Asesor_011,Antioquia,Llamada,No efectiva
+GES00332,2026-02-11,Asesor_011,Antioquia,Llamada,Efectiva
+GES00333,2026-06-10,Asesor_011,Antioquia,Email,Efectiva
+GES00334,2025-12-13,Asesor_011,Antioquia,Visita,Efectiva
+GES00335,2026-06-10,Asesor_011,Antioquia,Email,Efectiva
+GES00336,2026-04-13,Asesor_011,Antioquia,WhatsApp,Efectiva
+GES00337,2026-02-07,Asesor_011,Antioquia,Email,No efectiva
+GES00338,2025-12-22,Asesor_011,Antioquia,WhatsApp,Efectiva
+GES00339,2025-10-07,Asesor_011,Antioquia,Visita,No efectiva
+GES00340,2025-12-17,Asesor_011,Antioquia,Visita,Efectiva
+GES00341,2026-02-12,Asesor_011,Antioquia,Visita,Efectiva
+GES00342,2025-10-16,Asesor_011,Antioquia,WhatsApp,No efectiva
+GES00343,2025-10-30,Asesor_011,Antioquia,WhatsApp,Efectiva
+GES00344,2026-06-19,Asesor_011,Antioquia,Email,No efectiva
+GES00345,2025-12-07,Asesor_012,Antioquia,Llamada,Efectiva
+GES00346,2025-10-23,Asesor_012,Antioquia,Llamada,Efectiva
+GES00347,2025-12-09,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00348,2025-09-19,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00349,2025-12-12,Asesor_012,Antioquia,Email,Efectiva
+GES00350,2026-05-13,Asesor_012,Antioquia,Email,Efectiva
+GES00351,2026-02-27,Asesor_012,Antioquia,Llamada,Efectiva
+GES00352,2026-07-14,Asesor_012,Antioquia,Visita,No efectiva
+GES00353,2026-06-29,Asesor_012,Antioquia,Visita,No efectiva
+GES00354,2025-12-24,Asesor_012,Antioquia,Email,Efectiva
+GES00355,2026-04-19,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00356,2026-03-17,Asesor_012,Antioquia,Llamada,Efectiva
+GES00357,2025-12-25,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00358,2025-10-14,Asesor_012,Antioquia,Visita,No efectiva
+GES00359,2026-01-20,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00360,2026-05-20,Asesor_012,Antioquia,WhatsApp,No efectiva
+GES00361,2025-09-06,Asesor_012,Antioquia,Llamada,Efectiva
+GES00362,2025-11-25,Asesor_012,Antioquia,Email,Efectiva
+GES00363,2025-12-28,Asesor_012,Antioquia,Email,No efectiva
+GES00364,2026-02-19,Asesor_012,Antioquia,Email,No efectiva
+GES00365,2026-02-02,Asesor_012,Antioquia,WhatsApp,Efectiva
+GES00366,2025-11-03,Asesor_012,Antioquia,Llamada,Efectiva
+GES00367,2025-11-29,Asesor_012,Antioquia,Email,No efectiva
+GES00368,2025-09-10,Asesor_012,Antioquia,Visita,Efectiva
+GES00369,2025-09-18,Asesor_013,Valle,Llamada,No efectiva
+GES00370,2026-03-31,Asesor_013,Valle,Llamada,Efectiva
+GES00371,2026-02-20,Asesor_013,Valle,Llamada,Efectiva
+GES00372,2026-06-13,Asesor_013,Valle,Visita,Efectiva
+GES00373,2026-02-16,Asesor_013,Valle,Email,Efectiva
+GES00374,2025-12-24,Asesor_013,Valle,WhatsApp,No efectiva
+GES00375,2025-10-07,Asesor_013,Valle,Visita,Efectiva
+GES00376,2026-07-06,Asesor_013,Valle,Email,No efectiva
+GES00377,2026-01-14,Asesor_013,Valle,WhatsApp,No efectiva
+GES00378,2026-05-04,Asesor_013,Valle,Email,No efectiva
+GES00379,2025-10-09,Asesor_013,Valle,Visita,No efectiva
+GES00380,2026-03-22,Asesor_013,Valle,WhatsApp,No efectiva
+GES00381,2026-06-24,Asesor_013,Valle,Email,No efectiva
+GES00382,2026-04-04,Asesor_013,Valle,Visita,No efectiva
+GES00383,2026-03-15,Asesor_013,Valle,Email,Efectiva
+GES00384,2025-12-12,Asesor_013,Valle,Visita,Efectiva
+GES00385,2025-08-01,Asesor_013,Valle,Visita,Efectiva
+GES00386,2026-03-29,Asesor_013,Valle,Llamada,No efectiva
+GES00387,2026-04-02,Asesor_014,Valle,Email,Efectiva
+GES00388,2026-03-09,Asesor_014,Valle,Email,No efectiva
+GES00389,2025-08-04,Asesor_014,Valle,Email,Efectiva
+GES00390,2026-05-15,Asesor_014,Valle,WhatsApp,Efectiva
+GES00391,2025-10-23,Asesor_014,Valle,WhatsApp,No efectiva
+GES00392,2025-11-21,Asesor_014,Valle,Email,Efectiva
+GES00393,2026-06-17,Asesor_014,Valle,Visita,No efectiva
+GES00394,2026-06-10,Asesor_014,Valle,Email,Efectiva
+GES00395,2026-04-30,Asesor_014,Valle,Email,Efectiva
+GES00396,2025-09-05,Asesor_014,Valle,Visita,Efectiva
+GES00397,2025-09-26,Asesor_014,Valle,WhatsApp,No efectiva
+GES00398,2025-12-18,Asesor_014,Valle,WhatsApp,Efectiva
+GES00399,2025-08-10,Asesor_014,Valle,Visita,Efectiva
+GES00400,2026-05-01,Asesor_014,Valle,Llamada,Efectiva
+GES00401,2025-09-22,Asesor_014,Valle,Email,Efectiva
+GES00402,2026-03-13,Asesor_014,Valle,Llamada,Efectiva
+GES00403,2025-10-17,Asesor_014,Valle,Llamada,No efectiva
+GES00404,2026-01-23,Asesor_014,Valle,WhatsApp,Efectiva
+GES00405,2026-04-13,Asesor_014,Valle,Email,No efectiva
+GES00406,2025-08-17,Asesor_014,Valle,Email,Efectiva
+GES00407,2025-10-14,Asesor_014,Valle,Llamada,Efectiva
+GES00408,2026-02-17,Asesor_014,Valle,Llamada,No efectiva
+GES00409,2025-11-01,Asesor_014,Valle,Visita,No efectiva
+GES00410,2025-12-07,Asesor_014,Valle,WhatsApp,No efectiva
+GES00411,2025-10-02,Asesor_014,Valle,Visita,Efectiva
+GES00412,2026-03-15,Asesor_014,Valle,Visita,No efectiva
+GES00413,2025-08-18,Asesor_014,Valle,Visita,No efectiva
+GES00414,2025-09-18,Asesor_014,Valle,Visita,No efectiva
+GES00415,2026-07-15,Asesor_014,Valle,Email,No efectiva
+GES00416,2025-10-21,Asesor_014,Valle,Llamada,No efectiva
+GES00417,2026-04-24,Asesor_015,Valle,Llamada,Efectiva
+GES00418,2026-06-23,Asesor_015,Valle,Email,Efectiva
+GES00419,2025-08-27,Asesor_015,Valle,Visita,No efectiva
+GES00420,2025-11-29,Asesor_015,Valle,WhatsApp,Efectiva
+GES00421,2025-10-25,Asesor_015,Valle,Email,No efectiva
+GES00422,2026-02-19,Asesor_015,Valle,Visita,Efectiva
+GES00423,2025-08-22,Asesor_015,Valle,WhatsApp,No efectiva
+GES00424,2025-10-19,Asesor_015,Valle,Email,No efectiva
+GES00425,2025-12-06,Asesor_015,Valle,Visita,No efectiva
+GES00426,2026-06-13,Asesor_015,Valle,Email,No efectiva
+GES00427,2026-06-17,Asesor_015,Valle,Llamada,Efectiva
+GES00428,2026-06-27,Asesor_015,Valle,Visita,No efectiva
+GES00429,2025-09-24,Asesor_015,Valle,Visita,No efectiva
+GES00430,2026-01-10,Asesor_015,Valle,Email,No efectiva
+GES00431,2026-03-13,Asesor_015,Valle,Visita,Efectiva
+GES00432,2026-02-10,Asesor_015,Valle,Email,No efectiva
+GES00433,2025-12-07,Asesor_015,Valle,Llamada,No efectiva
+GES00434,2026-03-13,Asesor_015,Valle,Email,No efectiva
+GES00435,2026-04-08,Asesor_015,Valle,Visita,No efectiva
+GES00436,2026-05-06,Asesor_015,Valle,Email,Efectiva
+GES00437,2026-03-28,Asesor_015,Valle,Email,No efectiva
+GES00438,2026-06-03,Asesor_015,Valle,Visita,Efectiva
+GES00439,2025-10-19,Asesor_015,Valle,WhatsApp,Efectiva
+GES00440,2025-12-13,Asesor_015,Valle,Email,No efectiva
+GES00441,2026-06-23,Asesor_015,Valle,WhatsApp,No efectiva
+GES00442,2025-08-10,Asesor_015,Valle,Email,No efectiva
+GES00443,2025-12-01,Asesor_015,Valle,Email,No efectiva
+GES00444,2026-07-04,Asesor_015,Valle,WhatsApp,Efectiva
+GES00445,2026-04-12,Asesor_015,Valle,Visita,No efectiva
+GES00446,2026-01-13,Asesor_015,Valle,WhatsApp,No efectiva
+GES00447,2025-09-26,Asesor_015,Valle,Llamada,No efectiva
+GES00448,2025-09-04,Asesor_015,Valle,Llamada,No efectiva
+GES00449,2025-10-31,Asesor_016,Valle,Llamada,Efectiva
+GES00450,2026-04-06,Asesor_016,Valle,Visita,Efectiva
+GES00451,2026-05-20,Asesor_016,Valle,WhatsApp,No efectiva
+GES00452,2026-04-27,Asesor_016,Valle,Email,Efectiva
+GES00453,2025-11-22,Asesor_016,Valle,Llamada,Efectiva
+GES00454,2025-11-15,Asesor_016,Valle,WhatsApp,No efectiva
+GES00455,2025-09-10,Asesor_016,Valle,WhatsApp,No efectiva
+GES00456,2025-09-01,Asesor_016,Valle,Email,No efectiva
+GES00457,2026-03-01,Asesor_016,Valle,Email,No efectiva
+GES00458,2025-08-30,Asesor_016,Valle,Email,No efectiva
+GES00459,2025-09-06,Asesor_016,Valle,Email,Efectiva
+GES00460,2025-11-19,Asesor_016,Valle,Llamada,Efectiva
+GES00461,2025-11-27,Asesor_016,Valle,WhatsApp,Efectiva
+GES00462,2026-04-27,Asesor_016,Valle,Visita,No efectiva
+GES00463,2025-10-31,Asesor_016,Valle,WhatsApp,No efectiva
+GES00464,2026-06-23,Asesor_016,Valle,Email,No efectiva
+GES00465,2026-07-07,Asesor_016,Valle,WhatsApp,No efectiva
+GES00466,2025-10-25,Asesor_016,Valle,Visita,No efectiva
+GES00467,2026-04-16,Asesor_016,Valle,Email,No efectiva
+GES00468,2026-06-04,Asesor_017,Valle,WhatsApp,No efectiva
+GES00469,2026-01-09,Asesor_017,Valle,Email,No efectiva
+GES00470,2026-02-28,Asesor_017,Valle,WhatsApp,No efectiva
+GES00471,2026-01-13,Asesor_017,Valle,Visita,Efectiva
+GES00472,2025-11-18,Asesor_017,Valle,WhatsApp,No efectiva
+GES00473,2025-12-09,Asesor_017,Valle,Email,No efectiva
+GES00474,2026-03-18,Asesor_017,Valle,WhatsApp,Efectiva
+GES00475,2025-08-18,Asesor_017,Valle,Email,Efectiva
+GES00476,2026-04-23,Asesor_017,Valle,Visita,No efectiva
+GES00477,2026-01-02,Asesor_017,Valle,Llamada,Efectiva
+GES00478,2025-11-22,Asesor_017,Valle,Visita,No efectiva
+GES00479,2025-08-12,Asesor_017,Valle,Email,No efectiva
+GES00480,2026-04-19,Asesor_017,Valle,Visita,Efectiva
+GES00481,2026-03-24,Asesor_017,Valle,Email,Efectiva
+GES00482,2025-12-14,Asesor_017,Valle,Email,No efectiva
+GES00483,2025-12-06,Asesor_017,Valle,Visita,Efectiva
+GES00484,2026-01-01,Asesor_017,Valle,Llamada,Efectiva
+GES00485,2026-05-19,Asesor_017,Valle,Visita,No efectiva
+GES00486,2026-01-14,Asesor_017,Valle,WhatsApp,Efectiva
+GES00487,2026-05-23,Asesor_017,Valle,Llamada,Efectiva
+GES00488,2026-01-01,Asesor_017,Valle,Llamada,No efectiva
+GES00489,2026-05-23,Asesor_017,Valle,WhatsApp,Efectiva
+GES00490,2025-08-29,Asesor_017,Valle,Email,Efectiva
+GES00491,2026-03-11,Asesor_017,Valle,WhatsApp,No efectiva
+GES00492,2025-10-01,Asesor_017,Valle,Visita,No efectiva
+GES00493,2026-06-05,Asesor_017,Valle,Llamada,Efectiva
+GES00494,2026-06-20,Asesor_017,Valle,WhatsApp,Efectiva
+GES00495,2026-04-26,Asesor_017,Valle,Llamada,Efectiva
+GES00496,2026-05-17,Asesor_017,Valle,Visita,Efectiva
+GES00497,2025-11-22,Asesor_017,Valle,Visita,Efectiva
+GES00498,2026-02-18,Asesor_017,Valle,WhatsApp,No efectiva
+GES00499,2026-05-22,Asesor_017,Valle,Llamada,Efectiva
+GES00500,2026-02-18,Asesor_018,Valle,Visita,Efectiva
+GES00501,2025-09-12,Asesor_018,Valle,WhatsApp,No efectiva
+GES00502,2025-08-26,Asesor_018,Valle,WhatsApp,Efectiva
+GES00503,2026-02-21,Asesor_018,Valle,WhatsApp,No efectiva
+GES00504,2025-10-06,Asesor_018,Valle,Visita,No efectiva
+GES00505,2025-11-10,Asesor_018,Valle,WhatsApp,Efectiva
+GES00506,2026-05-20,Asesor_018,Valle,Visita,No efectiva
+GES00507,2026-04-26,Asesor_018,Valle,Visita,Efectiva
+GES00508,2025-12-15,Asesor_018,Valle,WhatsApp,Efectiva
+GES00509,2026-05-22,Asesor_018,Valle,Llamada,Efectiva
+GES00510,2026-02-28,Asesor_018,Valle,WhatsApp,Efectiva
+GES00511,2025-11-06,Asesor_018,Valle,Email,Efectiva
+GES00512,2026-07-02,Asesor_018,Valle,Llamada,No efectiva
+GES00513,2025-10-26,Asesor_018,Valle,Email,No efectiva
+GES00514,2026-03-15,Asesor_018,Valle,Visita,Efectiva
+GES00515,2025-11-28,Asesor_018,Valle,Visita,No efectiva
+GES00516,2025-10-19,Asesor_018,Valle,Llamada,Efectiva
+GES00517,2025-08-28,Asesor_018,Valle,Visita,No efectiva
+GES00518,2025-10-15,Asesor_018,Valle,Email,Efectiva
+GES00519,2025-09-26,Asesor_018,Valle,Email,No efectiva
+GES00520,2025-08-12,Asesor_018,Valle,Email,Efectiva
+GES00521,2026-05-03,Asesor_018,Valle,Visita,Efectiva
+GES00522,2026-04-25,Asesor_018,Valle,Email,No efectiva
+GES00523,2026-06-15,Asesor_018,Valle,Visita,No efectiva
+GES00524,2025-08-10,Asesor_019,Valle,WhatsApp,No efectiva
+GES00525,2026-07-06,Asesor_019,Valle,Llamada,Efectiva
+GES00526,2025-08-31,Asesor_019,Valle,Email,Efectiva
+GES00527,2026-06-13,Asesor_019,Valle,Email,Efectiva
+GES00528,2026-07-02,Asesor_019,Valle,Llamada,Efectiva
+GES00529,2026-07-05,Asesor_019,Valle,Email,No efectiva
+GES00530,2026-07-04,Asesor_019,Valle,Email,No efectiva
+GES00531,2025-08-10,Asesor_019,Valle,Email,No efectiva
+GES00532,2026-06-29,Asesor_019,Valle,WhatsApp,Efectiva
+GES00533,2026-02-11,Asesor_019,Valle,Llamada,No efectiva
+GES00534,2026-04-06,Asesor_019,Valle,Llamada,Efectiva
+GES00535,2026-04-14,Asesor_019,Valle,WhatsApp,No efectiva
+GES00536,2025-08-12,Asesor_019,Valle,Llamada,Efectiva
+GES00537,2026-04-29,Asesor_019,Valle,Email,Efectiva
+GES00538,2026-02-18,Asesor_019,Valle,Visita,Efectiva
+GES00539,2026-01-28,Asesor_019,Valle,Email,No efectiva
+GES00540,2025-11-29,Asesor_019,Valle,Email,No efectiva
+GES00541,2026-06-17,Asesor_019,Valle,Email,No efectiva
+GES00542,2025-08-16,Asesor_019,Valle,Email,Efectiva
+GES00543,2026-01-22,Asesor_019,Valle,WhatsApp,No efectiva
+GES00544,2025-09-14,Asesor_019,Valle,WhatsApp,Efectiva
+GES00545,2026-07-14,Asesor_019,Valle,Visita,Efectiva
+GES00546,2026-05-21,Asesor_019,Valle,Visita,Efectiva
+GES00547,2026-01-07,Asesor_019,Valle,Email,Efectiva
+GES00548,2025-10-07,Asesor_019,Valle,Visita,No efectiva
+GES00549,2026-05-25,Asesor_019,Valle,Visita,No efectiva
+GES00550,2026-01-06,Asesor_019,Valle,Visita,Efectiva
+GES00551,2025-10-14,Asesor_019,Valle,Visita,Efectiva
+GES00552,2026-05-13,Asesor_019,Valle,Llamada,Efectiva
+GES00553,2025-10-14,Asesor_019,Valle,Llamada,No efectiva
+GES00554,2026-02-28,Asesor_019,Valle,WhatsApp,Efectiva
+GES00555,2026-06-23,Asesor_019,Valle,Email,Efectiva
+GES00556,2025-11-05,Asesor_019,Valle,Llamada,Efectiva
+GES00557,2025-08-14,Asesor_019,Valle,Email,No efectiva
+GES00558,2026-06-10,Asesor_019,Valle,Visita,No efectiva
+GES00559,2025-11-27,Asesor_019,Valle,Llamada,Efectiva
+GES00560,2026-04-02,Asesor_020,Valle,Visita,Efectiva
+GES00561,2026-06-06,Asesor_020,Valle,WhatsApp,No efectiva
+GES00562,2026-02-08,Asesor_020,Valle,Visita,No efectiva
+GES00563,2026-04-09,Asesor_020,Valle,WhatsApp,Efectiva
+GES00564,2025-11-07,Asesor_020,Valle,Visita,Efectiva
+GES00565,2025-08-08,Asesor_020,Valle,Email,No efectiva
+GES00566,2025-11-22,Asesor_020,Valle,Visita,No efectiva
+GES00567,2025-09-03,Asesor_020,Valle,Visita,No efectiva
+GES00568,2026-03-13,Asesor_020,Valle,WhatsApp,No efectiva
+GES00569,2026-03-23,Asesor_020,Valle,Visita,Efectiva
+GES00570,2025-08-22,Asesor_020,Valle,WhatsApp,No efectiva
+GES00571,2026-02-18,Asesor_020,Valle,Llamada,Efectiva
+GES00572,2026-03-20,Asesor_020,Valle,WhatsApp,No efectiva
+GES00573,2025-08-22,Asesor_020,Valle,Visita,Efectiva
+GES00574,2026-02-19,Asesor_020,Valle,Llamada,Efectiva
+GES00575,2026-04-22,Asesor_020,Valle,Llamada,Efectiva
+GES00576,2026-03-14,Asesor_020,Valle,WhatsApp,No efectiva
+GES00577,2025-12-25,Asesor_020,Valle,WhatsApp,Efectiva
+GES00578,2025-12-29,Asesor_020,Valle,Llamada,No efectiva
+GES00579,2025-10-12,Asesor_020,Valle,WhatsApp,No efectiva
+GES00580,2026-03-20,Asesor_020,Valle,Llamada,No efectiva
+GES00581,2025-09-27,Asesor_020,Valle,Visita,No efectiva
+GES00582,2026-05-07,Asesor_020,Valle,Visita,Efectiva
+GES00583,2026-01-13,Asesor_020,Valle,WhatsApp,Efectiva
+GES00584,2026-03-21,Asesor_020,Valle,Visita,No efectiva
+GES00585,2025-09-16,Asesor_020,Valle,Email,Efectiva
+GES00586,2026-06-29,Asesor_020,Valle,Visita,No efectiva
+GES00587,2025-10-03,Asesor_020,Valle,Llamada,Efectiva
+GES00588,2026-03-19,Asesor_020,Valle,Email,Efectiva
+GES00589,2026-02-13,Asesor_020,Valle,Visita,Efectiva
+GES00590,2026-02-11,Asesor_020,Valle,Llamada,No efectiva
+GES00591,2026-01-19,Asesor_020,Valle,Visita,Efectiva
+GES00592,2025-10-14,Asesor_020,Valle,Visita,No efectiva
+GES00593,2025-08-27,Asesor_020,Valle,WhatsApp,Efectiva
+GES00594,2026-03-17,Asesor_020,Valle,Email,No efectiva
+GES00595,2025-09-30,Asesor_020,Valle,Visita,No efectiva
+GES00596,2025-08-02,Asesor_020,Valle,Email,Efectiva
+GES00597,2026-04-13,Asesor_021,Costa,Llamada,No efectiva
+GES00598,2026-04-10,Asesor_021,Costa,Visita,Efectiva
+GES00599,2026-07-04,Asesor_021,Costa,WhatsApp,No efectiva
+GES00600,2026-03-15,Asesor_021,Costa,Llamada,No efectiva
+GES00601,2025-08-04,Asesor_021,Costa,Visita,No efectiva
+GES00602,2025-12-21,Asesor_021,Costa,Visita,Efectiva
+GES00603,2025-10-15,Asesor_021,Costa,Llamada,No efectiva
+GES00604,2025-08-19,Asesor_021,Costa,Visita,No efectiva
+GES00605,2026-07-08,Asesor_021,Costa,Email,Efectiva
+GES00606,2025-09-14,Asesor_021,Costa,Llamada,Efectiva
+GES00607,2025-10-31,Asesor_021,Costa,Visita,No efectiva
+GES00608,2026-06-09,Asesor_021,Costa,Visita,No efectiva
+GES00609,2026-05-24,Asesor_021,Costa,Email,No efectiva
+GES00610,2025-09-17,Asesor_021,Costa,Email,Efectiva
+GES00611,2026-02-11,Asesor_021,Costa,Llamada,No efectiva
+GES00612,2026-05-09,Asesor_021,Costa,Llamada,Efectiva
+GES00613,2025-10-08,Asesor_021,Costa,Llamada,No efectiva
+GES00614,2025-12-19,Asesor_021,Costa,Email,No efectiva
+GES00615,2026-04-26,Asesor_021,Costa,Visita,No efectiva
+GES00616,2026-06-10,Asesor_021,Costa,Llamada,Efectiva
+GES00617,2026-06-19,Asesor_021,Costa,Llamada,No efectiva
+GES00618,2026-06-06,Asesor_021,Costa,Email,No efectiva
+GES00619,2026-01-10,Asesor_021,Costa,Email,No efectiva
+GES00620,2026-06-16,Asesor_021,Costa,Email,No efectiva
+GES00621,2026-06-11,Asesor_021,Costa,WhatsApp,No efectiva
+GES00622,2026-06-20,Asesor_021,Costa,WhatsApp,No efectiva
+GES00623,2025-11-01,Asesor_021,Costa,Visita,No efectiva
+GES00624,2025-11-08,Asesor_021,Costa,Llamada,Efectiva
+GES00625,2026-03-27,Asesor_021,Costa,Llamada,No efectiva
+GES00626,2025-11-15,Asesor_021,Costa,WhatsApp,No efectiva
+GES00627,2026-01-27,Asesor_022,Costa,Visita,Efectiva
+GES00628,2025-11-12,Asesor_022,Costa,Email,Efectiva
+GES00629,2025-09-04,Asesor_022,Costa,Email,Efectiva
+GES00630,2026-05-09,Asesor_022,Costa,Email,No efectiva
+GES00631,2025-09-28,Asesor_022,Costa,Email,Efectiva
+GES00632,2026-05-19,Asesor_022,Costa,Llamada,No efectiva
+GES00633,2025-11-08,Asesor_022,Costa,Email,No efectiva
+GES00634,2026-07-11,Asesor_022,Costa,WhatsApp,No efectiva
+GES00635,2025-08-19,Asesor_022,Costa,Visita,Efectiva
+GES00636,2026-06-18,Asesor_022,Costa,WhatsApp,No efectiva
+GES00637,2026-05-02,Asesor_022,Costa,Email,Efectiva
+GES00638,2026-02-28,Asesor_022,Costa,Llamada,No efectiva
+GES00639,2026-01-01,Asesor_022,Costa,Email,Efectiva
+GES00640,2025-08-10,Asesor_022,Costa,Visita,Efectiva
+GES00641,2026-01-17,Asesor_022,Costa,Email,Efectiva
+GES00642,2025-10-16,Asesor_022,Costa,Email,No efectiva
+GES00643,2026-01-21,Asesor_022,Costa,WhatsApp,No efectiva
+GES00644,2025-10-24,Asesor_022,Costa,WhatsApp,Efectiva
+GES00645,2025-09-29,Asesor_022,Costa,Email,No efectiva
+GES00646,2026-01-09,Asesor_022,Costa,Llamada,Efectiva
+GES00647,2025-09-14,Asesor_022,Costa,WhatsApp,No efectiva
+GES00648,2026-02-07,Asesor_022,Costa,WhatsApp,No efectiva
+GES00649,2026-01-02,Asesor_022,Costa,Visita,Efectiva
+GES00650,2025-10-29,Asesor_022,Costa,Llamada,Efectiva
+GES00651,2025-08-20,Asesor_022,Costa,Visita,No efectiva
+GES00652,2026-04-17,Asesor_023,Costa,Llamada,No efectiva
+GES00653,2026-04-14,Asesor_023,Costa,Visita,Efectiva
+GES00654,2026-04-05,Asesor_023,Costa,Email,No efectiva
+GES00655,2025-10-13,Asesor_023,Costa,Llamada,No efectiva
+GES00656,2026-04-22,Asesor_023,Costa,Visita,Efectiva
+GES00657,2025-08-19,Asesor_023,Costa,WhatsApp,Efectiva
+GES00658,2026-04-25,Asesor_023,Costa,Llamada,Efectiva
+GES00659,2025-08-23,Asesor_023,Costa,Llamada,Efectiva
+GES00660,2025-08-24,Asesor_023,Costa,Llamada,Efectiva
+GES00661,2026-07-04,Asesor_023,Costa,Email,Efectiva
+GES00662,2026-01-07,Asesor_023,Costa,Visita,Efectiva
+GES00663,2025-11-07,Asesor_023,Costa,Email,Efectiva
+GES00664,2026-01-11,Asesor_023,Costa,WhatsApp,No efectiva
+GES00665,2025-12-18,Asesor_023,Costa,Visita,Efectiva
+GES00666,2025-09-28,Asesor_023,Costa,Llamada,No efectiva
+GES00667,2026-05-14,Asesor_023,Costa,Llamada,Efectiva
+GES00668,2026-01-27,Asesor_023,Costa,Email,Efectiva
+GES00669,2025-12-24,Asesor_023,Costa,Visita,Efectiva
+GES00670,2026-01-07,Asesor_023,Costa,Email,Efectiva
+GES00671,2025-08-26,Asesor_023,Costa,Visita,Efectiva
+GES00672,2026-07-12,Asesor_023,Costa,Llamada,Efectiva
+GES00673,2025-08-28,Asesor_023,Costa,Llamada,Efectiva
+GES00674,2025-10-31,Asesor_023,Costa,WhatsApp,No efectiva
+GES00675,2026-01-07,Asesor_023,Costa,Email,No efectiva
+GES00676,2026-07-10,Asesor_023,Costa,Llamada,No efectiva
+GES00677,2026-03-27,Asesor_023,Costa,Visita,Efectiva
+GES00678,2026-03-28,Asesor_023,Costa,Llamada,Efectiva
+GES00679,2026-06-26,Asesor_023,Costa,WhatsApp,Efectiva
+GES00680,2025-11-23,Asesor_023,Costa,Visita,No efectiva
+GES00681,2025-12-11,Asesor_024,Costa,Email,No efectiva
+GES00682,2026-07-07,Asesor_024,Costa,Email,No efectiva
+GES00683,2026-01-14,Asesor_024,Costa,WhatsApp,No efectiva
+GES00684,2025-09-03,Asesor_024,Costa,WhatsApp,Efectiva
+GES00685,2026-04-03,Asesor_024,Costa,WhatsApp,No efectiva
+GES00686,2025-12-23,Asesor_024,Costa,Email,No efectiva
+GES00687,2025-10-05,Asesor_024,Costa,Llamada,No efectiva
+GES00688,2025-09-24,Asesor_024,Costa,Email,No efectiva
+GES00689,2025-09-06,Asesor_024,Costa,Email,No efectiva
+GES00690,2026-02-22,Asesor_024,Costa,WhatsApp,Efectiva
+GES00691,2025-12-03,Asesor_024,Costa,Visita,No efectiva
+GES00692,2026-02-13,Asesor_024,Costa,Llamada,Efectiva
+GES00693,2026-05-30,Asesor_024,Costa,WhatsApp,No efectiva
+GES00694,2026-03-11,Asesor_024,Costa,Email,No efectiva
+GES00695,2025-11-29,Asesor_024,Costa,Visita,No efectiva
+GES00696,2025-09-09,Asesor_024,Costa,WhatsApp,Efectiva
+GES00697,2026-06-02,Asesor_024,Costa,WhatsApp,Efectiva
+GES00698,2025-09-19,Asesor_024,Costa,WhatsApp,Efectiva
+GES00699,2026-02-24,Asesor_024,Costa,Llamada,No efectiva
+GES00700,2026-06-02,Asesor_024,Costa,WhatsApp,Efectiva
+GES00701,2026-06-27,Asesor_024,Costa,Llamada,Efectiva
+GES00702,2025-10-11,Asesor_024,Costa,Llamada,No efectiva
+GES00703,2026-07-05,Asesor_024,Costa,Visita,No efectiva
+GES00704,2025-12-28,Asesor_024,Costa,WhatsApp,No efectiva
+GES00705,2026-03-17,Asesor_024,Costa,Visita,Efectiva
+GES00706,2026-01-10,Asesor_024,Costa,Email,No efectiva
+GES00707,2026-07-14,Asesor_024,Costa,Email,No efectiva
+GES00708,2026-03-11,Asesor_024,Costa,Email,No efectiva
+GES00709,2026-05-26,Asesor_024,Costa,Llamada,No efectiva
+GES00710,2026-04-19,Asesor_024,Costa,WhatsApp,No efectiva
+GES00711,2025-12-29,Asesor_024,Costa,Llamada,Efectiva
+GES00712,2026-05-09,Asesor_024,Costa,Llamada,Efectiva
+GES00713,2026-05-14,Asesor_024,Costa,Email,Efectiva
+GES00714,2025-12-23,Asesor_024,Costa,Llamada,Efectiva
+GES00715,2026-05-30,Asesor_025,Costa,WhatsApp,Efectiva
+GES00716,2026-02-12,Asesor_025,Costa,WhatsApp,Efectiva
+GES00717,2026-05-07,Asesor_025,Costa,Visita,No efectiva
+GES00718,2026-04-01,Asesor_025,Costa,Visita,Efectiva
+GES00719,2026-02-13,Asesor_025,Costa,Email,No efectiva
+GES00720,2025-10-18,Asesor_025,Costa,Email,No efectiva
+GES00721,2026-07-10,Asesor_025,Costa,Visita,Efectiva
+GES00722,2025-09-06,Asesor_025,Costa,Llamada,Efectiva
+GES00723,2026-04-07,Asesor_025,Costa,WhatsApp,No efectiva
+GES00724,2025-10-09,Asesor_025,Costa,Llamada,Efectiva
+GES00725,2026-03-01,Asesor_025,Costa,WhatsApp,No efectiva
+GES00726,2026-06-06,Asesor_025,Costa,WhatsApp,Efectiva
+GES00727,2026-03-21,Asesor_025,Costa,WhatsApp,Efectiva
+GES00728,2026-03-19,Asesor_025,Costa,WhatsApp,Efectiva
+GES00729,2025-11-04,Asesor_025,Costa,WhatsApp,Efectiva
+GES00730,2026-05-23,Asesor_025,Costa,WhatsApp,No efectiva
+GES00731,2025-11-30,Asesor_025,Costa,Email,Efectiva
+GES00732,2026-05-07,Asesor_025,Costa,Email,Efectiva
+GES00733,2025-08-20,Asesor_025,Costa,WhatsApp,No efectiva
+GES00734,2025-09-27,Asesor_025,Costa,WhatsApp,No efectiva
+GES00735,2025-09-10,Asesor_025,Costa,Visita,No efectiva
+GES00736,2026-04-27,Asesor_025,Costa,Email,Efectiva
+GES00737,2025-09-10,Asesor_025,Costa,Llamada,Efectiva
+GES00738,2026-06-19,Asesor_025,Costa,Llamada,No efectiva
+GES00739,2026-05-04,Asesor_025,Costa,Email,Efectiva
+GES00740,2026-01-23,Asesor_025,Costa,Llamada,Efectiva
+GES00741,2026-04-20,Asesor_025,Costa,WhatsApp,Efectiva
+GES00742,2026-01-17,Asesor_025,Costa,WhatsApp,Efectiva
+GES00743,2025-12-29,Asesor_025,Costa,Email,Efectiva
+GES00744,2026-06-02,Asesor_025,Costa,Email,No efectiva
+GES00745,2026-05-16,Asesor_025,Costa,Email,Efectiva
+GES00746,2026-03-31,Asesor_025,Costa,Visita,Efectiva
+GES00747,2026-07-03,Asesor_025,Costa,Email,No efectiva
+GES00748,2026-06-16,Asesor_025,Costa,Llamada,Efectiva
+GES00749,2025-09-12,Asesor_025,Costa,Visita,Efectiva
+GES00750,2025-12-21,Asesor_025,Costa,Email,Efectiva
+GES00751,2025-12-22,Asesor_025,Costa,Email,No efectiva
+GES00752,2025-09-27,Asesor_026,Costa,Visita,No efectiva
+GES00753,2025-10-17,Asesor_026,Costa,WhatsApp,Efectiva
+GES00754,2025-10-29,Asesor_026,Costa,Email,No efectiva
+GES00755,2025-11-29,Asesor_026,Costa,WhatsApp,Efectiva
+GES00756,2026-04-28,Asesor_026,Costa,Llamada,Efectiva
+GES00757,2025-09-13,Asesor_026,Costa,Visita,Efectiva
+GES00758,2025-10-18,Asesor_026,Costa,WhatsApp,No efectiva
+GES00759,2026-02-28,Asesor_026,Costa,WhatsApp,Efectiva
+GES00760,2026-03-14,Asesor_026,Costa,Visita,Efectiva
+GES00761,2026-01-24,Asesor_026,Costa,Llamada,No efectiva
+GES00762,2025-09-29,Asesor_026,Costa,Llamada,Efectiva
+GES00763,2026-02-21,Asesor_026,Costa,WhatsApp,Efectiva
+GES00764,2026-04-30,Asesor_026,Costa,Visita,Efectiva
+GES00765,2026-02-16,Asesor_026,Costa,WhatsApp,Efectiva
+GES00766,2026-04-29,Asesor_026,Costa,WhatsApp,Efectiva
+GES00767,2026-03-18,Asesor_027,Costa,WhatsApp,No efectiva
+GES00768,2026-04-29,Asesor_027,Costa,Llamada,Efectiva
+GES00769,2026-04-30,Asesor_027,Costa,Email,No efectiva
+GES00770,2026-03-10,Asesor_027,Costa,Email,Efectiva
+GES00771,2025-12-15,Asesor_027,Costa,Llamada,Efectiva
+GES00772,2026-05-27,Asesor_027,Costa,WhatsApp,No efectiva
+GES00773,2026-07-12,Asesor_027,Costa,Visita,No efectiva
+GES00774,2026-05-29,Asesor_027,Costa,Visita,No efectiva
+GES00775,2026-07-13,Asesor_027,Costa,Visita,Efectiva
+GES00776,2025-08-06,Asesor_027,Costa,Llamada,No efectiva
+GES00777,2025-08-07,Asesor_027,Costa,WhatsApp,Efectiva
+GES00778,2025-09-23,Asesor_027,Costa,WhatsApp,Efectiva
+GES00779,2025-12-24,Asesor_027,Costa,Email,Efectiva
+GES00780,2025-08-13,Asesor_027,Costa,Llamada,Efectiva
+GES00781,2026-06-01,Asesor_027,Costa,Visita,No efectiva
+GES00782,2026-06-23,Asesor_027,Costa,Llamada,No efectiva
+GES00783,2025-10-01,Asesor_027,Costa,Llamada,No efectiva
+GES00784,2025-10-06,Asesor_027,Costa,WhatsApp,No efectiva
+GES00785,2026-06-28,Asesor_027,Costa,Visita,No efectiva
+GES00786,2025-11-03,Asesor_027,Costa,Email,Efectiva
+GES00787,2026-07-05,Asesor_027,Costa,Llamada,No efectiva
+GES00788,2025-12-20,Asesor_027,Costa,WhatsApp,No efectiva
+GES00789,2026-07-08,Asesor_027,Costa,Email,Efectiva
+GES00790,2025-09-07,Asesor_027,Costa,Email,No efectiva
+GES00791,2026-02-12,Asesor_027,Costa,WhatsApp,Efectiva
+GES00792,2025-08-31,Asesor_027,Costa,Email,No efectiva
+GES00793,2025-12-14,Asesor_027,Costa,Visita,No efectiva
+GES00794,2026-04-09,Asesor_027,Costa,Visita,No efectiva
+GES00795,2025-10-31,Asesor_027,Costa,WhatsApp,Efectiva
+GES00796,2026-05-04,Asesor_027,Costa,WhatsApp,Efectiva
+GES00797,2026-06-26,Asesor_027,Costa,Llamada,No efectiva
+GES00798,2025-12-11,Asesor_027,Costa,Llamada,Efectiva
+GES00799,2025-09-06,Asesor_027,Costa,Email,No efectiva
+GES00800,2025-08-10,Asesor_027,Costa,WhatsApp,Efectiva
+GES00801,2026-06-24,Asesor_027,Costa,Llamada,No efectiva
+GES00802,2026-07-07,Asesor_027,Costa,WhatsApp,Efectiva
+GES00803,2026-01-16,Asesor_027,Costa,WhatsApp,No efectiva
+GES00804,2026-04-21,Asesor_027,Costa,WhatsApp,No efectiva
+GES00805,2026-02-23,Asesor_027,Costa,Llamada,No efectiva
+GES00806,2025-08-02,Asesor_027,Costa,WhatsApp,No efectiva
+GES00807,2026-04-04,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00808,2026-01-31,Asesor_028,Eje Cafetero,Email,No efectiva
+GES00809,2026-02-22,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00810,2026-06-28,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00811,2026-01-22,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00812,2025-12-27,Asesor_028,Eje Cafetero,Visita,Efectiva
+GES00813,2025-08-21,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00814,2026-01-01,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00815,2026-06-19,Asesor_028,Eje Cafetero,Email,No efectiva
+GES00816,2026-06-20,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00817,2025-10-11,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00818,2026-05-31,Asesor_028,Eje Cafetero,Visita,No efectiva
+GES00819,2025-09-02,Asesor_028,Eje Cafetero,Email,No efectiva
+GES00820,2026-03-19,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00821,2025-08-29,Asesor_028,Eje Cafetero,Email,No efectiva
+GES00822,2025-08-22,Asesor_028,Eje Cafetero,WhatsApp,Efectiva
+GES00823,2026-07-01,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00824,2026-05-02,Asesor_028,Eje Cafetero,Visita,No efectiva
+GES00825,2025-11-28,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00826,2025-10-12,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00827,2026-03-30,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00828,2026-06-29,Asesor_028,Eje Cafetero,Visita,Efectiva
+GES00829,2026-06-20,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00830,2025-09-19,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00831,2026-05-30,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00832,2025-09-24,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00833,2026-06-12,Asesor_028,Eje Cafetero,Visita,Efectiva
+GES00834,2025-11-12,Asesor_028,Eje Cafetero,WhatsApp,Efectiva
+GES00835,2026-07-14,Asesor_028,Eje Cafetero,WhatsApp,Efectiva
+GES00836,2026-05-22,Asesor_028,Eje Cafetero,Visita,Efectiva
+GES00837,2025-11-18,Asesor_028,Eje Cafetero,Llamada,No efectiva
+GES00838,2026-01-19,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00839,2025-10-12,Asesor_028,Eje Cafetero,WhatsApp,Efectiva
+GES00840,2026-02-06,Asesor_028,Eje Cafetero,Visita,Efectiva
+GES00841,2026-05-25,Asesor_028,Eje Cafetero,Llamada,Efectiva
+GES00842,2026-06-20,Asesor_028,Eje Cafetero,WhatsApp,No efectiva
+GES00843,2025-08-09,Asesor_028,Eje Cafetero,WhatsApp,Efectiva
+GES00844,2025-08-04,Asesor_028,Eje Cafetero,Visita,No efectiva
+GES00845,2026-06-30,Asesor_028,Eje Cafetero,Email,Efectiva
+GES00846,2026-04-01,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00847,2026-06-24,Asesor_029,Eje Cafetero,Email,No efectiva
+GES00848,2026-02-27,Asesor_029,Eje Cafetero,Visita,No efectiva
+GES00849,2026-06-09,Asesor_029,Eje Cafetero,Llamada,No efectiva
+GES00850,2026-04-13,Asesor_029,Eje Cafetero,Llamada,No efectiva
+GES00851,2026-01-02,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00852,2026-05-13,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00853,2026-04-29,Asesor_029,Eje Cafetero,Llamada,No efectiva
+GES00854,2026-05-04,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00855,2026-06-17,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00856,2025-11-08,Asesor_029,Eje Cafetero,Llamada,No efectiva
+GES00857,2026-03-31,Asesor_029,Eje Cafetero,WhatsApp,Efectiva
+GES00858,2026-07-10,Asesor_029,Eje Cafetero,Llamada,Efectiva
+GES00859,2026-02-03,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00860,2025-12-07,Asesor_029,Eje Cafetero,Email,No efectiva
+GES00861,2026-03-21,Asesor_029,Eje Cafetero,Llamada,Efectiva
+GES00862,2025-08-27,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00863,2025-08-15,Asesor_029,Eje Cafetero,WhatsApp,No efectiva
+GES00864,2025-09-06,Asesor_029,Eje Cafetero,Visita,No efectiva
+GES00865,2026-05-31,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00866,2026-07-13,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00867,2025-09-26,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00868,2025-11-30,Asesor_029,Eje Cafetero,WhatsApp,No efectiva
+GES00869,2026-02-09,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00870,2026-05-27,Asesor_029,Eje Cafetero,WhatsApp,Efectiva
+GES00871,2026-03-12,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00872,2026-06-09,Asesor_029,Eje Cafetero,WhatsApp,Efectiva
+GES00873,2026-02-08,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00874,2025-11-08,Asesor_029,Eje Cafetero,Email,No efectiva
+GES00875,2025-11-12,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00876,2026-05-19,Asesor_029,Eje Cafetero,Llamada,Efectiva
+GES00877,2025-09-26,Asesor_029,Eje Cafetero,WhatsApp,Efectiva
+GES00878,2025-10-27,Asesor_029,Eje Cafetero,Email,Efectiva
+GES00879,2025-12-30,Asesor_029,Eje Cafetero,Visita,No efectiva
+GES00880,2026-06-23,Asesor_029,Eje Cafetero,Visita,No efectiva
+GES00881,2026-05-11,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00882,2026-04-25,Asesor_029,Eje Cafetero,WhatsApp,No efectiva
+GES00883,2025-11-19,Asesor_029,Eje Cafetero,WhatsApp,No efectiva
+GES00884,2025-12-21,Asesor_029,Eje Cafetero,Llamada,No efectiva
+GES00885,2025-12-05,Asesor_029,Eje Cafetero,Visita,Efectiva
+GES00886,2025-11-22,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00887,2025-08-03,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00888,2025-08-21,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00889,2026-04-16,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00890,2026-02-18,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00891,2025-09-20,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00892,2025-09-12,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00893,2026-02-25,Asesor_030,Eje Cafetero,Visita,Efectiva
+GES00894,2025-12-30,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00895,2025-09-16,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00896,2026-01-04,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00897,2026-05-20,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00898,2026-03-26,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00899,2026-02-24,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00900,2026-02-06,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00901,2025-08-01,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00902,2026-01-18,Asesor_030,Eje Cafetero,Llamada,Efectiva
+GES00903,2025-12-17,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00904,2025-09-11,Asesor_030,Eje Cafetero,Email,No efectiva
+GES00905,2025-08-29,Asesor_030,Eje Cafetero,Email,No efectiva
+GES00906,2025-09-26,Asesor_030,Eje Cafetero,WhatsApp,No efectiva
+GES00907,2026-06-13,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00908,2025-10-29,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00909,2025-11-13,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00910,2025-12-01,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00911,2026-05-25,Asesor_030,Eje Cafetero,Visita,No efectiva
+GES00912,2025-11-24,Asesor_030,Eje Cafetero,Email,Efectiva
+GES00913,2025-12-15,Asesor_030,Eje Cafetero,WhatsApp,Efectiva
+GES00914,2025-09-02,Asesor_030,Eje Cafetero,Email,Efectiva
+GES00915,2026-04-06,Asesor_030,Eje Cafetero,Llamada,No efectiva
+GES00916,2026-04-30,Asesor_030,Eje Cafetero,Email,No efectiva
+GES00917,2026-02-05,Asesor_030,Eje Cafetero,Llamada,Efectiva
+GES00918,2026-03-23,Asesor_030,Eje Cafetero,Llamada,Efectiva
+GES00919,2025-12-26,Asesor_031,Eje Cafetero,Llamada,Efectiva
+GES00920,2025-12-20,Asesor_031,Eje Cafetero,Llamada,No efectiva
+GES00921,2026-04-12,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00922,2026-04-24,Asesor_031,Eje Cafetero,Llamada,Efectiva
+GES00923,2026-05-05,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00924,2026-03-04,Asesor_031,Eje Cafetero,WhatsApp,No efectiva
+GES00925,2025-08-11,Asesor_031,Eje Cafetero,Email,Efectiva
+GES00926,2025-08-12,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00927,2026-04-24,Asesor_031,Eje Cafetero,Email,No efectiva
+GES00928,2026-01-23,Asesor_031,Eje Cafetero,Email,No efectiva
+GES00929,2026-07-07,Asesor_031,Eje Cafetero,WhatsApp,No efectiva
+GES00930,2026-05-18,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00931,2026-01-04,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00932,2025-11-25,Asesor_031,Eje Cafetero,WhatsApp,Efectiva
+GES00933,2025-12-26,Asesor_031,Eje Cafetero,Llamada,Efectiva
+GES00934,2025-12-24,Asesor_031,Eje Cafetero,WhatsApp,No efectiva
+GES00935,2026-06-13,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00936,2025-12-25,Asesor_031,Eje Cafetero,Visita,No efectiva
+GES00937,2026-07-08,Asesor_031,Eje Cafetero,Visita,Efectiva
+GES00938,2025-09-29,Asesor_031,Eje Cafetero,Llamada,No efectiva
+GES00939,2025-10-04,Asesor_032,Eje Cafetero,WhatsApp,Efectiva
+GES00940,2025-11-03,Asesor_032,Eje Cafetero,Visita,Efectiva
+GES00941,2025-08-18,Asesor_032,Eje Cafetero,Email,No efectiva
+GES00942,2025-10-15,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00943,2025-10-23,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00944,2025-08-13,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00945,2025-10-14,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00946,2025-10-19,Asesor_032,Eje Cafetero,Llamada,No efectiva
+GES00947,2026-05-07,Asesor_032,Eje Cafetero,Email,No efectiva
+GES00948,2025-12-30,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00949,2026-05-21,Asesor_032,Eje Cafetero,Visita,No efectiva
+GES00950,2026-03-15,Asesor_032,Eje Cafetero,Email,No efectiva
+GES00951,2026-04-03,Asesor_032,Eje Cafetero,Llamada,Efectiva
+GES00952,2026-05-10,Asesor_032,Eje Cafetero,Llamada,Efectiva
+GES00953,2026-02-22,Asesor_032,Eje Cafetero,Visita,Efectiva
+GES00954,2025-09-17,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00955,2026-06-25,Asesor_032,Eje Cafetero,Visita,Efectiva
+GES00956,2025-11-22,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00957,2025-09-12,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00958,2025-09-14,Asesor_032,Eje Cafetero,WhatsApp,Efectiva
+GES00959,2026-01-10,Asesor_032,Eje Cafetero,Llamada,No efectiva
+GES00960,2026-02-01,Asesor_032,Eje Cafetero,WhatsApp,Efectiva
+GES00961,2026-03-07,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00962,2025-08-07,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00963,2026-01-05,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00964,2025-09-14,Asesor_032,Eje Cafetero,Visita,No efectiva
+GES00965,2026-03-16,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00966,2025-12-26,Asesor_032,Eje Cafetero,Visita,No efectiva
+GES00967,2026-03-06,Asesor_032,Eje Cafetero,WhatsApp,Efectiva
+GES00968,2026-05-28,Asesor_032,Eje Cafetero,Llamada,Efectiva
+GES00969,2026-01-03,Asesor_032,Eje Cafetero,WhatsApp,No efectiva
+GES00970,2026-04-26,Asesor_032,Eje Cafetero,Email,Efectiva
+GES00971,2026-05-30,Asesor_032,Eje Cafetero,WhatsApp,Efectiva
+GES00972,2026-06-24,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00973,2026-05-12,Asesor_033,Eje Cafetero,WhatsApp,No efectiva
+GES00974,2025-10-10,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00975,2026-02-12,Asesor_033,Eje Cafetero,Email,No efectiva
+GES00976,2025-08-22,Asesor_033,Eje Cafetero,Email,No efectiva
+GES00977,2026-01-03,Asesor_033,Eje Cafetero,WhatsApp,No efectiva
+GES00978,2026-03-26,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00979,2025-08-02,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00980,2026-06-24,Asesor_033,Eje Cafetero,WhatsApp,Efectiva
+GES00981,2026-07-07,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00982,2026-04-09,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00983,2025-12-20,Asesor_033,Eje Cafetero,WhatsApp,No efectiva
+GES00984,2025-09-04,Asesor_033,Eje Cafetero,Email,No efectiva
+GES00985,2026-05-17,Asesor_033,Eje Cafetero,WhatsApp,No efectiva
+GES00986,2026-06-18,Asesor_033,Eje Cafetero,WhatsApp,No efectiva
+GES00987,2025-10-01,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00988,2026-05-22,Asesor_033,Eje Cafetero,Llamada,No efectiva
+GES00989,2025-10-23,Asesor_033,Eje Cafetero,Llamada,Efectiva
+GES00990,2026-03-25,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00991,2025-08-28,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00992,2026-06-22,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00993,2025-12-28,Asesor_033,Eje Cafetero,Llamada,Efectiva
+GES00994,2026-06-18,Asesor_033,Eje Cafetero,Visita,No efectiva
+GES00995,2026-06-03,Asesor_033,Eje Cafetero,Visita,No efectiva
+GES00996,2026-01-09,Asesor_033,Eje Cafetero,Email,Efectiva
+GES00997,2026-02-02,Asesor_033,Eje Cafetero,Llamada,No efectiva
+GES00998,2026-01-28,Asesor_033,Eje Cafetero,Visita,Efectiva
+GES00999,2026-04-23,Asesor_033,Eje Cafetero,Email,Efectiva
+GES01000,2026-02-27,Asesor_034,Eje Cafetero,Email,No efectiva
+GES01001,2025-10-23,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01002,2026-04-15,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01003,2026-05-14,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01004,2025-09-09,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01005,2025-08-09,Asesor_034,Eje Cafetero,WhatsApp,Efectiva
+GES01006,2026-02-02,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01007,2026-06-02,Asesor_034,Eje Cafetero,Email,Efectiva
+GES01008,2026-01-03,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01009,2025-09-30,Asesor_034,Eje Cafetero,Visita,Efectiva
+GES01010,2025-10-12,Asesor_034,Eje Cafetero,Visita,Efectiva
+GES01011,2025-11-16,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01012,2026-03-06,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01013,2026-04-05,Asesor_034,Eje Cafetero,WhatsApp,Efectiva
+GES01014,2025-09-25,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01015,2026-04-20,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01016,2025-12-08,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01017,2026-07-08,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01018,2025-10-03,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01019,2025-11-11,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01020,2025-08-15,Asesor_034,Eje Cafetero,Llamada,Efectiva
+GES01021,2025-12-21,Asesor_034,Eje Cafetero,Email,Efectiva
+GES01022,2026-04-14,Asesor_034,Eje Cafetero,Visita,Efectiva
+GES01023,2025-09-04,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01024,2025-08-08,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01025,2025-12-23,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01026,2026-05-03,Asesor_034,Eje Cafetero,Llamada,No efectiva
+GES01027,2025-09-20,Asesor_034,Eje Cafetero,Visita,No efectiva
+GES01028,2026-04-01,Asesor_034,Eje Cafetero,Email,No efectiva
+GES01029,2025-11-03,Asesor_034,Eje Cafetero,WhatsApp,No efectiva
+GES01030,2025-11-01,Asesor_035,Santanderes,Email,No efectiva
+GES01031,2026-03-06,Asesor_035,Santanderes,Visita,Efectiva
+GES01032,2026-02-25,Asesor_035,Santanderes,Llamada,No efectiva
+GES01033,2026-01-08,Asesor_035,Santanderes,Llamada,Efectiva
+GES01034,2026-04-24,Asesor_035,Santanderes,Visita,Efectiva
+GES01035,2026-02-01,Asesor_035,Santanderes,Email,No efectiva
+GES01036,2025-08-21,Asesor_035,Santanderes,Llamada,Efectiva
+GES01037,2025-09-29,Asesor_035,Santanderes,WhatsApp,Efectiva
+GES01038,2026-06-04,Asesor_035,Santanderes,Email,No efectiva
+GES01039,2026-03-16,Asesor_035,Santanderes,Visita,No efectiva
+GES01040,2025-12-27,Asesor_035,Santanderes,WhatsApp,Efectiva
+GES01041,2025-09-05,Asesor_035,Santanderes,WhatsApp,No efectiva
+GES01042,2026-02-05,Asesor_035,Santanderes,Visita,Efectiva
+GES01043,2026-07-12,Asesor_035,Santanderes,WhatsApp,No efectiva
+GES01044,2026-02-19,Asesor_035,Santanderes,WhatsApp,Efectiva
+GES01045,2026-07-13,Asesor_035,Santanderes,Llamada,Efectiva
+GES01046,2026-02-19,Asesor_035,Santanderes,WhatsApp,No efectiva
+GES01047,2025-09-22,Asesor_035,Santanderes,Visita,Efectiva
+GES01048,2026-01-21,Asesor_036,Santanderes,Visita,No efectiva
+GES01049,2026-02-23,Asesor_036,Santanderes,Llamada,Efectiva
+GES01050,2026-03-06,Asesor_036,Santanderes,WhatsApp,Efectiva
+GES01051,2026-05-25,Asesor_036,Santanderes,Email,No efectiva
+GES01052,2026-06-26,Asesor_036,Santanderes,WhatsApp,Efectiva
+GES01053,2026-07-08,Asesor_036,Santanderes,WhatsApp,No efectiva
+GES01054,2026-04-19,Asesor_036,Santanderes,Email,Efectiva
+GES01055,2026-03-21,Asesor_036,Santanderes,Llamada,Efectiva
+GES01056,2026-04-08,Asesor_036,Santanderes,WhatsApp,Efectiva
+GES01057,2025-10-08,Asesor_036,Santanderes,Llamada,Efectiva
+GES01058,2025-08-28,Asesor_036,Santanderes,Llamada,No efectiva
+GES01059,2025-08-14,Asesor_036,Santanderes,Visita,No efectiva
+GES01060,2026-07-14,Asesor_036,Santanderes,Email,Efectiva
+GES01061,2026-06-15,Asesor_036,Santanderes,Llamada,No efectiva
+GES01062,2026-07-05,Asesor_036,Santanderes,WhatsApp,No efectiva
+GES01063,2025-11-12,Asesor_036,Santanderes,Email,No efectiva
+GES01064,2026-04-09,Asesor_036,Santanderes,Email,No efectiva
+GES01065,2026-05-04,Asesor_036,Santanderes,Llamada,No efectiva
+GES01066,2025-08-17,Asesor_036,Santanderes,WhatsApp,No efectiva
+GES01067,2025-09-30,Asesor_036,Santanderes,WhatsApp,No efectiva
+GES01068,2026-02-09,Asesor_036,Santanderes,WhatsApp,No efectiva
+GES01069,2025-10-30,Asesor_037,Santanderes,Email,No efectiva
+GES01070,2025-10-24,Asesor_037,Santanderes,WhatsApp,Efectiva
+GES01071,2026-01-07,Asesor_037,Santanderes,WhatsApp,Efectiva
+GES01072,2025-09-26,Asesor_037,Santanderes,WhatsApp,No efectiva
+GES01073,2026-05-04,Asesor_037,Santanderes,WhatsApp,Efectiva
+GES01074,2025-10-20,Asesor_037,Santanderes,Llamada,Efectiva
+GES01075,2026-04-11,Asesor_037,Santanderes,WhatsApp,No efectiva
+GES01076,2026-01-28,Asesor_037,Santanderes,Email,Efectiva
+GES01077,2025-08-15,Asesor_037,Santanderes,Llamada,Efectiva
+GES01078,2026-02-04,Asesor_037,Santanderes,Email,No efectiva
+GES01079,2026-05-26,Asesor_037,Santanderes,Llamada,No efectiva
+GES01080,2026-06-17,Asesor_037,Santanderes,Email,Efectiva
+GES01081,2026-03-08,Asesor_037,Santanderes,Email,No efectiva
+GES01082,2026-02-27,Asesor_037,Santanderes,Email,Efectiva
+GES01083,2025-12-04,Asesor_037,Santanderes,Visita,Efectiva
+GES01084,2026-01-07,Asesor_037,Santanderes,Llamada,No efectiva
+GES01085,2026-01-04,Asesor_038,Santanderes,Llamada,Efectiva
+GES01086,2025-08-11,Asesor_038,Santanderes,Email,Efectiva
+GES01087,2026-07-03,Asesor_038,Santanderes,WhatsApp,Efectiva
+GES01088,2026-03-04,Asesor_038,Santanderes,Email,Efectiva
+GES01089,2026-03-29,Asesor_038,Santanderes,Llamada,No efectiva
+GES01090,2026-02-10,Asesor_038,Santanderes,WhatsApp,Efectiva
+GES01091,2025-09-20,Asesor_038,Santanderes,WhatsApp,Efectiva
+GES01092,2026-07-12,Asesor_038,Santanderes,Visita,Efectiva
+GES01093,2026-04-15,Asesor_038,Santanderes,Email,Efectiva
+GES01094,2026-01-01,Asesor_038,Santanderes,Email,No efectiva
+GES01095,2025-11-12,Asesor_038,Santanderes,WhatsApp,No efectiva
+GES01096,2025-09-08,Asesor_038,Santanderes,Visita,Efectiva
+GES01097,2025-08-25,Asesor_038,Santanderes,Email,No efectiva
+GES01098,2026-02-22,Asesor_038,Santanderes,Visita,Efectiva
+GES01099,2025-09-17,Asesor_038,Santanderes,Llamada,Efectiva
+GES01100,2025-12-18,Asesor_038,Santanderes,Llamada,Efectiva
+GES01101,2026-04-29,Asesor_038,Santanderes,WhatsApp,Efectiva
+GES01102,2025-09-09,Asesor_039,Santanderes,Email,No efectiva
+GES01103,2026-01-01,Asesor_039,Santanderes,WhatsApp,No efectiva
+GES01104,2026-01-08,Asesor_039,Santanderes,Visita,Efectiva
+GES01105,2025-12-07,Asesor_039,Santanderes,WhatsApp,No efectiva
+GES01106,2026-05-08,Asesor_039,Santanderes,Visita,No efectiva
+GES01107,2026-06-18,Asesor_039,Santanderes,Visita,No efectiva
+GES01108,2025-11-18,Asesor_039,Santanderes,WhatsApp,Efectiva
+GES01109,2026-06-23,Asesor_039,Santanderes,WhatsApp,No efectiva
+GES01110,2026-06-17,Asesor_039,Santanderes,Llamada,No efectiva
+GES01111,2026-02-03,Asesor_039,Santanderes,WhatsApp,Efectiva
+GES01112,2025-10-17,Asesor_039,Santanderes,Email,No efectiva
+GES01113,2026-02-27,Asesor_039,Santanderes,Email,No efectiva
+GES01114,2025-09-02,Asesor_039,Santanderes,Visita,No efectiva
+GES01115,2025-12-15,Asesor_039,Santanderes,Email,No efectiva
+GES01116,2025-12-10,Asesor_039,Santanderes,Visita,Efectiva
+GES01117,2025-09-28,Asesor_039,Santanderes,Visita,Efectiva
+GES01118,2025-12-04,Asesor_039,Santanderes,Email,Efectiva
+GES01119,2026-05-14,Asesor_039,Santanderes,WhatsApp,Efectiva
+GES01120,2025-08-19,Asesor_039,Santanderes,Visita,Efectiva
+GES01121,2025-10-09,Asesor_039,Santanderes,Llamada,Efectiva
+GES01122,2025-12-21,Asesor_039,Santanderes,Visita,No efectiva
+GES01123,2025-08-22,Asesor_039,Santanderes,WhatsApp,No efectiva
+GES01124,2025-08-29,Asesor_039,Santanderes,Llamada,Efectiva
+GES01125,2025-12-31,Asesor_039,Santanderes,Llamada,No efectiva
+GES01126,2026-02-25,Asesor_039,Santanderes,Email,No efectiva
+GES01127,2025-09-16,Asesor_039,Santanderes,WhatsApp,No efectiva
+GES01128,2025-10-11,Asesor_040,Santanderes,Visita,Efectiva
+GES01129,2026-04-14,Asesor_040,Santanderes,Llamada,No efectiva
+GES01130,2026-05-25,Asesor_040,Santanderes,Email,Efectiva
+GES01131,2025-09-16,Asesor_040,Santanderes,Visita,No efectiva
+GES01132,2026-01-08,Asesor_040,Santanderes,Email,No efectiva
+GES01133,2026-02-16,Asesor_040,Santanderes,Visita,No efectiva
+GES01134,2025-11-20,Asesor_040,Santanderes,Visita,Efectiva
+GES01135,2025-11-18,Asesor_040,Santanderes,Email,Efectiva
+GES01136,2025-12-09,Asesor_040,Santanderes,Llamada,Efectiva
+GES01137,2026-02-08,Asesor_040,Santanderes,Llamada,Efectiva
+GES01138,2026-03-05,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01139,2025-12-21,Asesor_040,Santanderes,Visita,Efectiva
+GES01140,2026-02-05,Asesor_040,Santanderes,Email,Efectiva
+GES01141,2026-06-07,Asesor_040,Santanderes,Llamada,No efectiva
+GES01142,2026-07-06,Asesor_040,Santanderes,Llamada,No efectiva
+GES01143,2026-07-10,Asesor_040,Santanderes,Visita,Efectiva
+GES01144,2026-02-13,Asesor_040,Santanderes,Email,No efectiva
+GES01145,2026-02-02,Asesor_040,Santanderes,Llamada,No efectiva
+GES01146,2025-11-30,Asesor_040,Santanderes,WhatsApp,Efectiva
+GES01147,2026-02-18,Asesor_040,Santanderes,Email,Efectiva
+GES01148,2025-11-29,Asesor_040,Santanderes,Email,Efectiva
+GES01149,2025-10-22,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01150,2026-06-26,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01151,2025-12-19,Asesor_040,Santanderes,Llamada,No efectiva
+GES01152,2026-04-09,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01153,2026-01-18,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01154,2025-09-21,Asesor_040,Santanderes,Visita,No efectiva
+GES01155,2026-04-17,Asesor_040,Santanderes,Llamada,Efectiva
+GES01156,2026-06-05,Asesor_040,Santanderes,Email,Efectiva
+GES01157,2025-08-15,Asesor_040,Santanderes,Llamada,No efectiva
+GES01158,2025-11-03,Asesor_040,Santanderes,WhatsApp,No efectiva
+GES01159,2025-10-09,Asesor_040,Santanderes,Llamada,Efectiva
+GES01160,2026-06-18,Asesor_040,Santanderes,Email,Efectiva
+GES01161,2025-09-12,Asesor_040,Santanderes,Llamada,Efectiva
+GES01162,2026-04-22,Asesor_040,Santanderes,Visita,No efectiva
+GES01163,2026-02-27,Asesor_040,Santanderes,Email,Efectiva
+GES01164,2025-10-08,Asesor_040,Santanderes,Email,Efectiva
+GES01165,2026-05-31,Asesor_040,Santanderes,Email,No efectiva
+GES01166,2025-09-13,Asesor_041,Santanderes,WhatsApp,Efectiva
+GES01167,2026-02-18,Asesor_041,Santanderes,WhatsApp,No efectiva
+GES01168,2026-05-20,Asesor_041,Santanderes,Visita,Efectiva
+GES01169,2025-08-12,Asesor_041,Santanderes,Visita,No efectiva
+GES01170,2026-03-25,Asesor_041,Santanderes,Visita,Efectiva
+GES01171,2025-10-26,Asesor_041,Santanderes,Llamada,Efectiva
+GES01172,2026-03-08,Asesor_041,Santanderes,Email,Efectiva
+GES01173,2026-02-05,Asesor_041,Santanderes,Visita,No efectiva
+GES01174,2025-09-30,Asesor_041,Santanderes,Llamada,No efectiva
+GES01175,2026-03-11,Asesor_041,Santanderes,WhatsApp,No efectiva
+GES01176,2026-04-11,Asesor_041,Santanderes,Llamada,Efectiva
+GES01177,2025-11-13,Asesor_041,Santanderes,Visita,No efectiva
+GES01178,2025-12-15,Asesor_041,Santanderes,Email,No efectiva
+GES01179,2026-02-12,Asesor_041,Santanderes,Visita,Efectiva
+GES01180,2025-11-14,Asesor_041,Santanderes,Visita,No efectiva
+GES01181,2025-12-23,Asesor_041,Santanderes,Visita,Efectiva
+GES01182,2026-02-26,Asesor_041,Santanderes,Visita,Efectiva
+GES01183,2025-12-13,Asesor_041,Santanderes,Visita,No efectiva
+GES01184,2025-12-06,Asesor_041,Santanderes,Email,Efectiva
+GES01185,2026-06-28,Asesor_041,Santanderes,WhatsApp,Efectiva
+GES01186,2026-03-29,Asesor_041,Santanderes,Visita,No efectiva
